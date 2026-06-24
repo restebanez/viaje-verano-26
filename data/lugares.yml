@@ -10,8 +10,8 @@
   dia: "Base"
   semaforo: "🟡"
   maps_query: "Cangas de Onís, Asturias"
-  lat: 43.31361
-  lng: -5.06585
+  lat: 43.35018
+  lng: -5.13215
   foto: cangas.jpg
   credito: "Javier Montes"
   credito_url: "https://commons.wikimedia.org/wiki/File:Puente_Romano_de_Cangas_de_On%C3%ADs.tif"
@@ -110,8 +110,8 @@
   dia: "Jue 23 (opcional)"
   semaforo: "🔴"
   maps_query: "Santuario de Covadonga"
-  lat: 43.30421
-  lng: -5.06154
+  lat: 43.30886
+  lng: -5.05352
   foto: covadonga.jpg
   credito: "Luis Fermín Turiel Peredo"
   credito_url: "https://commons.wikimedia.org/wiki/File:Covadonga,_basilica_03.jpg"
@@ -137,8 +137,8 @@
   dia: "Vie 24"
   semaforo: "🟡"
   maps_query: "Lastres, Colunga"
-  lat: 43.51485
-  lng: -5.29276
+  lat: 43.51526
+  lng: -5.27209
   foto: lastres.jpg
   credito: "Tim Adams"
   credito_url: "https://commons.wikimedia.org/wiki/File:Lastres_of_Asturias,_Spain_at_daybreak.jpg"
