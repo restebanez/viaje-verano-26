@@ -42,17 +42,26 @@ construye y despliega en GitHub Pages.
    Errores ya corregidos: La Pesanca está en Piloña (no Cangas); Colunga→aeropuerto
    son ~79 km (no 107).
 
+## Fotos y vídeos junto a los días
+
+La foto de un lugar aparece **junto a su día** poniendo `{{media:ID}}` en el MD
+(donde `ID` es el campo `id` del lugar en `lugares.yml`). El build lo convierte en
+una ficha flotante con foto + crédito + enlaces (▶︎ Vídeo · 🗺️ Mapa · 🥾 Wikiloc).
+Pon `{{media:ID}}` en su propia línea, con una línea en blanco antes y después.
+
 ## Estructura de un lugar (`data/lugares.yml`)
 
 ```yaml
-- nombre: Olla de San Vicente
+- id: olla                                  # se usa en el MD como {{media:olla}}
+  nombre: Olla de San Vicente
   dia: "Jue 23"
   semaforo: "🔴"            # 🟢 tranquilo · 🟡 llevadero · 🔴 masificado
   maps_query: "Aparcamiento Olla de San Vicente"
-  lat: 43.272
-  lng: -5.058
+  lat: 43.30613
+  lng: -5.12837
   wikiloc: "https://www.wikiloc.com/..."   # opcional
-  foto: olla-de-san-vicente.jpg            # opcional, en assets/img/
+  video: "https://www.youtube.com/watch?v=..."  # opcional (enlace, no embebido)
+  foto: olla.jpg                            # opcional, en assets/img/
   credito: "Autor"                          # si hay foto
   credito_url: "https://commons.wikimedia.org/..."
   licencia: "CC BY-SA 4.0"

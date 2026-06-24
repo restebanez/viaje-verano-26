@@ -2,9 +2,11 @@
 # Fotos de Wikimedia Commons (licencia libre) con su crédito.
 # semaforo: 🟢 tranquilo · 🟡 hay gente pero llevadero · 🔴 masificado
 # El enlace "Abrir en Google Maps" usa maps_query (más preciso que el pin).
+# id: se usa en el MD con {{media:id}} para incrustar la ficha junto a ese día.
 # Refrescar fotos: python3 scripts/fetch-fotos.py
 
-- nombre: Cangas de Onís (base)
+- id: cangas
+  nombre: Cangas de Onís (base)
   dia: "Base"
   semaforo: "🟡"
   maps_query: "Cangas de Onís, Asturias"
@@ -14,15 +16,18 @@
   credito: "Javier Montes"
   credito_url: "https://commons.wikimedia.org/wiki/File:Puente_Romano_de_Cangas_de_On%C3%ADs.tif"
   licencia: "CC BY-SA 4.0"
+  video: "https://www.youtube.com/watch?v=iHpAzEBm7ro"
 
-- nombre: Playa fluvial de Aballe
+- id: aballe
+  nombre: Playa fluvial de Aballe
   dia: "Lun 20"
   semaforo: "🟢"
   maps_query: "Playa fluvial de Aballe, Parres"
   lat: 43.32727
   lng: -5.14350
 
-- nombre: Senda del río Casaño (La Molina)
+- id: casano
+  nombre: Senda del río Casaño (La Molina)
   dia: "Mar 21"
   semaforo: "🟢"
   maps_query: "La Molina, Cabrales"
@@ -33,8 +38,10 @@
   credito: "UnLugarDondeQuerrasQuedarte"
   credito_url: "https://commons.wikimedia.org/wiki/File:R%C3%ADo_casa%C3%B1o_en_el_Concejo_de_Cabrales_en_oto%C3%B1o.jpg"
   licencia: "CC BY-SA 4.0"
+  video: "https://www.youtube.com/watch?v=Sidm1IJaoIM"
 
-- nombre: Arenas de Cabrales
+- id: arenas
+  nombre: Arenas de Cabrales
   dia: "Mar 21 (comida)"
   semaforo: "🟡"
   maps_query: "Arenas de Cabrales"
@@ -45,7 +52,8 @@
   credito_url: "https://commons.wikimedia.org/wiki/File:Arenas_cabrales.jpg"
   licencia: "Dominio público"
 
-- nombre: Playa de Cuevas del Mar
+- id: cuevas
+  nombre: Playa de Cuevas del Mar
   dia: "Mié 22"
   semaforo: "🔴"
   maps_query: "Playa de Cuevas del Mar, Nueva, Llanes"
@@ -55,9 +63,11 @@
   credito: "Markus Braun"
   credito_url: "https://commons.wikimedia.org/wiki/File:Playa-cuevas-del-mar.JPG"
   licencia: "Dominio público"
+  video: "https://www.youtube.com/watch?v=lTXlhy60Xdc"
   hero: true
 
-- nombre: Playa de San Antolín (alternativa tranquila)
+- id: sanantolin
+  nombre: Playa de San Antolín (alternativa tranquila)
   dia: "Mié 22 (alt.)"
   semaforo: "🟢"
   maps_query: "Playa de San Antolín, Naves, Llanes"
@@ -67,8 +77,10 @@
   credito: "J.L. Maral"
   credito_url: "https://commons.wikimedia.org/wiki/File:Playa_de_San_Antolin.jpg"
   licencia: "CC BY-SA 2.0"
+  video: "https://www.youtube.com/watch?v=zkoKhKqSG6w"
 
-- nombre: Playa de Vega (alternativa tranquila)
+- id: vega
+  nombre: Playa de Vega (alternativa tranquila)
   dia: "Mié 22 (alt.)"
   semaforo: "🟡"
   maps_query: "Playa de Vega, Ribadesella"
@@ -79,7 +91,8 @@
   credito_url: "https://commons.wikimedia.org/wiki/File:Playa_de_Vega_,_Ribadesella._-_panoramio.jpg"
   licencia: "CC BY 3.0"
 
-- nombre: Olla de San Vicente (río Dobra)
+- id: olla
+  nombre: Olla de San Vicente (río Dobra)
   dia: "Jue 23"
   semaforo: "🔴"
   maps_query: "Aparcamiento Olla de San Vicente"
@@ -90,8 +103,10 @@
   credito: "McBodes"
   credito_url: "https://commons.wikimedia.org/wiki/File:Olla_de_San_Vicente_,_rio_Dobra_._-_panoramio.jpg"
   licencia: "CC BY 3.0"
+  video: "https://www.youtube.com/watch?v=i6X3UCermNM"
 
-- nombre: Santuario de Covadonga
+- id: covadonga
+  nombre: Santuario de Covadonga
   dia: "Jue 23 (opcional)"
   semaforo: "🔴"
   maps_query: "Santuario de Covadonga"
@@ -101,8 +116,10 @@
   credito: "Luis Fermín Turiel Peredo"
   credito_url: "https://commons.wikimedia.org/wiki/File:Covadonga,_basilica_03.jpg"
   licencia: "CC BY-SA 4.0"
+  video: "https://www.youtube.com/watch?v=6nAB2aMePOU"
 
-- nombre: Ruta del Alba (Soto de Agues)
+- id: alba
+  nombre: Ruta del Alba (Soto de Agues)
   dia: "Intercambio"
   semaforo: "🟡"
   maps_query: "Soto de Agues"
@@ -113,8 +130,10 @@
   credito: "Juana Navío Soto"
   credito_url: "https://commons.wikimedia.org/wiki/File:Ruta_del_r%C3%ADo_Alba_VI.jpg"
   licencia: "CC BY-SA 4.0"
+  video: "https://www.youtube.com/watch?v=ZFIOX05Uxxw"
 
-- nombre: Lastres
+- id: lastres
+  nombre: Lastres
   dia: "Vie 24"
   semaforo: "🟡"
   maps_query: "Lastres, Colunga"
@@ -124,8 +143,10 @@
   credito: "Tim Adams"
   credito_url: "https://commons.wikimedia.org/wiki/File:Lastres_of_Asturias,_Spain_at_daybreak.jpg"
   licencia: "CC BY 2.0"
+  video: "https://www.youtube.com/watch?v=DW-GnYzZ_yc"
 
-- nombre: Playa de La Griega
+- id: griega
+  nombre: Playa de La Griega
   dia: "Vie 24"
   semaforo: "🟡"
   maps_query: "Playa de La Griega, Colunga"
@@ -135,8 +156,10 @@
   credito: "Giorgio Galeotti"
   credito_url: "https://commons.wikimedia.org/wiki/File:Playa_de_La_Griega_-_Colunga,_Spain_-_July_24,_2024_01.jpg"
   licencia: "CC BY-SA 4.0"
+  video: "https://www.youtube.com/watch?v=ao6XUjVRoAQ"
 
-- nombre: Aeropuerto de Asturias (OVD)
+- id: aeropuerto
+  nombre: Aeropuerto de Asturias (OVD)
   dia: "Vie 24 · vuelo 17:00"
   semaforo: ""
   maps_query: "Aeropuerto de Asturias"

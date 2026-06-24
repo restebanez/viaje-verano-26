@@ -34,6 +34,8 @@ funcionan casi siempre:
 
 ## Lunes 20 — Llegada + tarde suave en Cangas · 🟡
 
+{{media:cangas}}
+
 Día de coche; no metáis ruta de montaña.
 
 - **Mañana/mediodía:** Burgos → Cangas de Onís. Check-in.
@@ -55,6 +57,8 @@ Día de coche; no metáis ruta de montaña.
 ---
 
 ## Martes 21 — Senda del río Casaño (La Molina) + Arenas de Cabrales · 🟢
+
+{{media:casano}}
 
 El día **más equilibrado** y, además, **el más tranquilo de multitudes**: es una
 joya poco conocida (la gente se va al Cares o a la Olla). Bosque de castaños, casi
@@ -80,6 +84,8 @@ llano, pozas y sombra.
    grande gratuito en Arenas (Llaneces).
 10. **Veredicto:** **muy recomendable** (el más seguro, arbolado y tranquilo).
 
+{{media:arenas}}
+
 ---
 
 ## Miércoles 22 — Día de playa · (elige según el día)
@@ -87,6 +93,9 @@ llano, pozas y sombra.
 Aquí tienes dos perfiles. Elige por la mañana según ganas y según la marea.
 
 ### Opción A — Cuevas del Mar (espectacular pero concurrida) · 🔴
+
+{{media:cuevas}}
+
 1. **Google Maps:** `Playa de Cuevas del Mar, Nueva, Llanes`. A ~40 min de Cangas.
 2. **Por qué es tan espectacular:** el mar y un río han esculpido unos
    **farallones y arcos de roca** que emergen de la arena; con marea baja se abren
@@ -98,6 +107,9 @@ Aquí tienes dos perfiles. Elige por la mañana según ganas y según la marea.
    para ver las cuevas (ver nota de mareas).
 
 ### Opción B — la alternativa tranquila y bonita · 🟢🟡
+
+{{media:sanantolin}}
+
 - **Playa de San Antolín** (`Playa de San Antolín, Naves, Llanes`): **arenal amplio
   y abierto**, con río y verde detrás; al ser grande **nunca se siente abarrotada**
   aunque haya gente. Menos "postal de roca", mucha más paz para que el niño juegue.
@@ -105,6 +117,8 @@ Aquí tienes dos perfiles. Elige por la mañana según ganas y según la marea.
   familiar, buen aparcamiento. Otra apuesta segura de espacio.
 - **Por qué cuadran con vosotros:** priorizáis disfrutar sin agobio sobre la foto;
   en un arenal grande cabéis todos, aparcáis sin estrés y el peque tiene espacio.
+
+{{media:vega}}
 
 > **Gulpiyuri** (la mini-playa interior famosa): preciosa y curiosa, pero **40 m de
 > arena que se masifican** y depende mucho de la marea. Solo merece la pena **muy
@@ -125,6 +139,9 @@ Aquí tienes dos perfiles. Elige por la mañana según ganas y según la marea.
 ## Jueves 23 — Olla de San Vicente (río Dobra) + opcional Santuario de Covadonga
 
 ### Olla de San Vicente · 🔴
+
+{{media:olla}}
+
 1. **Sitio:** gran poza verde esmeralda del río Dobra, a las puertas del Parque
    Nacional. La única de la zona donde se **nada de verdad**.
 2. **Google Maps:** `Aparcamiento Olla de San Vicente` o
@@ -151,6 +168,9 @@ Aquí tienes dos perfiles. Elige por la mañana según ganas y según la marea.
    profundidad). Si llegáis tarde y está masificada → poza alternativa del Dobra.
 
 ### Tarde opcional — Santuario de Covadonga · 🔴
+
+{{media:covadonga}}
+
 - **Qué es:** Basílica + **Santa Cueva** (la Virgen, la cascada), corazón espiritual
   de Asturias. Se llega **en coche todo el año** (la restricción es solo la
   carretera de los *Lagos*, no el santuario).
@@ -164,9 +184,17 @@ Aquí tienes dos perfiles. Elige por la mañana según ganas y según la marea.
 - ⚠️ **No** confundir con los **Lagos** (exigen lanzadera de pago y **no son zona de
   baño**; son el mayor imán de multitudes de la zona).
 
+> **Intercambio del día:** si os apetece bosque y cascadas en vez de poza, cambiad
+> la Olla por la **Ruta del Alba** (Soto de Agues, versión corta ~2 h 30–3 h). Está a
+> 1 h–1 h 15 en coche, así que es plan de **día completo**.
+
+{{media:alba}}
+
 ---
 
 ## Viernes 24 — Salida: mañana costera ligera + vuelo 17:00 · 🟡
+
+{{media:lastres}}
 
 Sin ruta de montaña. Objetivo: estar en el aeropuerto **~15:00**.
 
@@ -189,6 +217,8 @@ Sin ruta de montaña. Objetivo: estar en el aeropuerto **~15:00**.
   devolvéis coche de alquiler). Desde aquí son solo **~79 km, ~55 min** (no los 107
   de Cangas, porque Colunga ya queda de camino) → llegada ~14:40–15:00.
 - **Veredicto:** **muy recomendable** por logística con niño.
+
+{{media:griega}}
 
 ---
 

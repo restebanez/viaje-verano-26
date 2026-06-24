@@ -36,7 +36,7 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 0 20px 48px; }
 .fechas { margin: 6px 0 0; color: var(--suave); font-weight: 600; letter-spacing: .02em; }
 
 /* Mapa */
-.mapa-wrap h2, .galeria h2 { font-size: 1.3rem; margin: 8px 0 12px; }
+.mapa-wrap h2 { font-size: 1.3rem; margin: 8px 0 12px; }
 #mapa {
   height: 440px;
   border-radius: 14px;
@@ -47,23 +47,27 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 0 20px 48px; }
 .leyenda { color: var(--suave); font-size: .9rem; display: flex; flex-wrap: wrap; gap: 14px; align-items: center; }
 .dot { display: inline-block; width: 12px; height: 12px; border-radius: 50%; margin-right: 4px; vertical-align: -1px; border: 2px solid #fff; box-shadow: 0 0 0 1px var(--linea); }
 
-/* Galería */
-.galeria { margin: 34px 0 8px; }
-.galeria .grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 14px;
+/* Fotos junto a los días (fichas incrustadas, el texto las rodea) */
+.media-dia {
+  float: right; clear: right;
+  width: 340px; max-width: 42%;
+  margin: 4px 0 16px 22px;
+  border: 1px solid var(--linea); border-radius: 12px; overflow: hidden;
+  background: #fafbfc; box-shadow: 0 1px 3px rgba(0,0,0,.05);
 }
-.galeria figure { margin: 0; border: 1px solid var(--linea); border-radius: 12px; overflow: hidden; background: #fafbfc; }
-.galeria img { width: 100%; height: 160px; object-fit: cover; display: block; }
-.galeria figcaption { padding: 8px 10px; font-size: .85rem; color: var(--tinta); }
-.credito { color: var(--suave); font-size: .78rem; }
+.media-dia img { width: 100%; height: 200px; object-fit: cover; display: block; }
+.media-dia figcaption { padding: 9px 12px 6px; font-size: .86rem; line-height: 1.4; }
+.media-links { padding: 4px 12px 11px; font-size: .85rem; display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; }
+.media-links a { color: var(--acento); white-space: nowrap; text-decoration: none; font-weight: 600; }
+.media-links a:hover { text-decoration: underline; }
+.media-links .sep { color: var(--linea); }
+.credito { color: var(--suave); font-size: .78rem; font-weight: 400; }
 .credito a { color: var(--suave); }
 
 /* Contenido */
 .contenido { margin-top: 28px; }
-.contenido h2 { font-size: 1.45rem; margin: 34px 0 10px; padding-top: 10px; border-top: 1px solid var(--linea); }
-.contenido h3 { font-size: 1.12rem; margin: 22px 0 6px; color: var(--acento2); }
+.contenido h2 { clear: both; font-size: 1.45rem; margin: 34px 0 10px; padding-top: 10px; border-top: 1px solid var(--linea); }
+.contenido h3 { clear: both; font-size: 1.12rem; margin: 22px 0 6px; color: var(--acento2); }
 .contenido a { color: var(--acento); text-decoration: none; }
 .contenido a:hover { text-decoration: underline; }
 .contenido blockquote {
@@ -88,6 +92,11 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 0 20px 48px; }
   #mapa { height: 340px; }
 }
 
+@media (max-width: 680px) {
+  .media-dia { float: none; clear: none; width: 100%; max-width: 100%; margin: 8px 0 18px; }
+  .media-dia img { height: 210px; }
+}
+
 /* Impresión → "Guardar como PDF" desde el navegador */
 @media print {
   .mapa-wrap, .leyenda { display: none; }
@@ -95,5 +104,7 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 0 20px 48px; }
   body { font-size: 12px; }
   .contenido h2 { break-after: avoid; }
   a { color: #000; text-decoration: none; }
-  .galeria img { height: 120px; }
+  .media-dia { width: 40%; box-shadow: none; break-inside: avoid; }
+  .media-dia img { height: 120px; }
+  .media-links { display: none; }
 }
