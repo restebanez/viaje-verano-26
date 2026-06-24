@@ -160,7 +160,7 @@
 
 - id: aeropuerto
   nombre: Aeropuerto de Asturias (OVD)
-  dia: "Vie 24 · vuelo 17:00"
+  dia: "Vie 24 · vuelo 15:45"
   semaforo: ""
   maps_query: "Aeropuerto de Asturias"
   lat: 43.56162
