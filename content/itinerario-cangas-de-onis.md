@@ -4,9 +4,9 @@ Familia con niño de 6 años y medio · base en Cangas de Onís · planes de nat
 auténtica, caminata bonita (máx. ~3 h) + baño natural, sombra y seguridad.
 
 - **Llegada:** lunes 20 julio desde Burgos (≈ 2 h 45 – 3 h en coche).
-- **Salida:** viernes 24 julio, vuelo **17:00** desde el Aeropuerto de Asturias (OVD).
-  Cangas → aeropuerto = **107 km, ~1 h 15–1 h 20** (directo). Si paráis en la costa,
-  **Colunga → aeropuerto = ~79 km, ~55 min**.
+- **Salida:** viernes 24 julio, vuelo **15:45** (Vueling V73572, ref. VEKB9K) → Barcelona
+  17:10, desde el Aeropuerto de Asturias (OVD). Cangas → aeropuerto = **107 km, ~1 h 15–1 h 20**
+  (directo). Si paráis en la costa, **Colunga → aeropuerto = ~79 km, ~55 min**.
 
 > Regla del viaje: mira la previsión cada noche y **cambia el orden de los días**
 > según el tiempo. Senderos → días despejados; playa → el día más caluroso;
@@ -192,13 +192,13 @@ Aquí tienes dos perfiles. Elige por la mañana según ganas y según la marea.
 
 ---
 
-## Viernes 24 — Salida: mañana costera ligera + vuelo 17:00 · 🟡
+## Viernes 24 — Salida: mañana costera ligera + vuelo 15:45 · 🟡
 
 {{media:lastres}}
 
-Sin ruta de montaña. Objetivo: estar en el aeropuerto **~15:00**.
+Sin ruta de montaña. Objetivo: estar en el aeropuerto **~14:00** (vuelo a las **15:45**).
 
-- **09:30** salir de Cangas hacia el oeste (dirección aeropuerto).
+- **09:00** salir de Cangas hacia el oeste (dirección aeropuerto).
 - **Sitio recomendado de camino:** **Lastres** 🟡 (precioso pueblo marinero,
   mirador) y/o **Playa de La Griega** 🟡 (Colunga) con **huellas de dinosaurio**.
   - Google Maps: `Lastres, Colunga` · `Playa de La Griega, Colunga`.
@@ -212,10 +212,12 @@ Sin ruta de montaña. Objetivo: estar en el aeropuerto **~15:00**.
     Griega Colunga"*.
 - **Multitudes:** Lastres tiene trasiego de verano pero es un pueblo, se lleva bien
   a mediodía; La Griega es familiar (🟡), cómoda con niño por los servicios.
-- **~12:00–13:00:** comida temprana en Lastres/Colunga.
-- **~13:45–14:00:** salir hacia el aeropuerto **desde Colunga/Lastres** (antes si
-  devolvéis coche de alquiler). Desde aquí son solo **~79 km, ~55 min** (no los 107
-  de Cangas, porque Colunga ya queda de camino) → llegada ~14:40–15:00.
+- **~11:45–12:30:** comida muy temprana (o picnic) en Lastres/Colunga.
+- **~12:45–13:00:** salir hacia el aeropuerto **desde Colunga/Lastres** (antes si
+  devolvéis coche de alquiler). Desde aquí son **~79 km, ~55 min** (no los 107 de
+  Cangas, porque Colunga ya queda de camino) → llegada ~13:45–14:00.
+  ⚠️ Con el vuelo a las **15:45** y un niño, no apuréis: si la mañana va justa, acortad
+  la parada costera (un vistazo a Lastres) o id directos al aeropuerto.
 - **Veredicto:** **muy recomendable** por logística con niño.
 
 {{media:griega}}

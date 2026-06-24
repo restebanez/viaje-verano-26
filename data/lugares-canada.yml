@@ -1,0 +1,395 @@
+# Canadá — Rockies en autocaravana. Coordenadas (OpenStreetMap), fotos (Wikimedia
+# Commons, con crédito) y vídeos (YouTube, enlace).
+# semaforo: 🔵 base/camping · 🟢 actividad · 🟡 popular · 🔴 muy concurrido / con reserva
+# id se usa en el MD como {{media:id}}.
+
+# ---------- Logística ----------
+- id: calgary
+  nombre: Calgary (East Village)
+  dia: "26–28 jul"
+  semaforo: "🔵"
+  maps_query: "East Village, Calgary, Alberta"
+  lat: 51.04561
+  lng: -114.05754
+  foto: calgary.jpg
+  credito: "DXR"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Calgary_Stampede_Grounds_and_Skyline,_southeast_view_20240819_1.jpg"
+  licencia: "CC BY-SA 4.0"
+
+- id: yyc
+  nombre: Aeropuerto de Calgary (YYC)
+  dia: "26 jul / 22 ago"
+  semaforo: "🔵"
+  maps_query: "Calgary International Airport"
+  lat: 51.12226
+  lng: -114.01354
+
+- id: canadream
+  nombre: CanaDream (recogida autocaravana)
+  dia: "28 jul · 13–16 h"
+  semaforo: "🔵"
+  maps_query: "292154 Crosspointe Drive, Rocky View County, AB"
+  lat: 51.20057
+  lng: -113.97455
+
+# ---------- Banff (28–30 jul y 16–20 ago) ----------
+- id: camp_banff
+  nombre: Banff – Tunnel Mountain Village 2
+  dia: "28–30 jul (A14) · 16–20 ago (A11)"
+  semaforo: "🔵"
+  maps_query: "Tunnel Mountain Village 2 Campground, Banff"
+  lat: 51.18883
+  lng: -115.54162
+
+- id: banff_town
+  nombre: Banff (pueblo)
+  dia: "Banff"
+  semaforo: "🟡"
+  maps_query: "Banff, Alberta"
+  lat: 51.17508
+  lng: -115.57208
+  foto: banff_town.jpg
+  credito: "Sharon Hahn Darlin"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Banff,_Alberta,_Canada,_May_2022_-_Wrapped_building.jpg"
+  licencia: "CC BY 2.0"
+  video: "https://www.youtube.com/watch?v=_aa9Dkf9uTQ"
+
+- id: banff_gondola
+  nombre: Banff Gondola (Sulphur Mountain)
+  dia: "Banff"
+  semaforo: "🟡"
+  maps_query: "Banff Gondola, Sulphur Mountain"
+  lat: 51.14617
+  lng: -115.56532
+  foto: banff_gondola.jpg
+  credito: "Deror avi"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Banff_Sulphur_Mountain_Gondola_IMG_4259.JPG"
+  licencia: "CC BY-SA 4.0"
+  video: "https://www.youtube.com/watch?v=hTzaDrUJseE"
+
+- id: minnewanka
+  nombre: Lake Minnewanka
+  dia: "Banff"
+  semaforo: "🟢"
+  maps_query: "Lake Minnewanka, Banff"
+  lat: 51.25622
+  lng: -115.46093
+  foto: minnewanka.jpg
+  credito: "Jakub Fryš"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Misty_Minnewanka_Lake.jpg"
+  licencia: "CC BY-SA 4.0"
+  video: "https://www.youtube.com/watch?v=HmRll4lD41w"
+
+- id: two_jack
+  nombre: Two Jack Lake
+  dia: "Banff"
+  semaforo: "🟢"
+  maps_query: "Two Jack Lake, Banff"
+  lat: 51.22881
+  lng: -115.49554
+
+- id: johnson_lake
+  nombre: Johnson Lake
+  dia: "Banff"
+  semaforo: "🟢"
+  maps_query: "Johnson Lake, Banff"
+  lat: 51.19653
+  lng: -115.48313
+
+# ---------- Yoho (30 jul – 3 ago) ----------
+- id: camp_yoho
+  nombre: Yoho – Kicking Horse Campground
+  dia: "30 jul–3 ago · sitio 84"
+  semaforo: "🔵"
+  maps_query: "Kicking Horse Campground, Yoho National Park"
+  lat: 51.42318
+  lng: -116.43507
+
+- id: field
+  nombre: Field (pueblo, BC)
+  dia: "Yoho"
+  semaforo: "🟢"
+  maps_query: "Field, British Columbia"
+  lat: 51.39611
+  lng: -116.48915
+
+- id: emerald_lake
+  nombre: Emerald Lake (canoas)
+  dia: "Yoho"
+  semaforo: "🟡"
+  maps_query: "Emerald Lake, Yoho National Park"
+  lat: 51.44375
+  lng: -116.53166
+  foto: emerald_lake.jpg
+  credito: "JLRPHOTO"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Emerald_Lake_Yoho_BC.jpg"
+  licencia: "CC BY-SA 4.0"
+  video: "https://www.youtube.com/watch?v=oT_-r-nkeug"
+
+- id: takakkaw
+  nombre: Takakkaw Falls
+  dia: "Yoho"
+  semaforo: "🟢"
+  maps_query: "Takakkaw Falls, Yoho National Park"
+  lat: 51.50022
+  lng: -116.47346
+  foto: takakkaw.jpg
+  credito: "Chris Woodrich"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Takakkaw_Falls,_Yoho_National_Park,_British_Columbia,_2025-07-11_04.jpg"
+  licencia: "CC BY-SA 4.0"
+  video: "https://www.youtube.com/watch?v=LgMUCJMRo6U"
+
+- id: natural_bridge
+  nombre: Natural Bridge
+  dia: "Yoho"
+  semaforo: "🟢"
+  maps_query: "Natural Bridge, Yoho National Park"
+  lat: 51.3577
+  lng: -116.5028
+  foto: natural_bridge.jpg
+  credito: "DXR"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Natural_Bridge,_Yoho_NP,_west_view_20240825_1.jpg"
+  licencia: "CC BY-SA 4.0"
+
+- id: spiral_tunnels
+  nombre: Spiral Tunnels (mirador del tren)
+  dia: "Yoho"
+  semaforo: "🟢"
+  maps_query: "Lower Spiral Tunnel Viewpoint, Yoho"
+  lat: 51.43141
+  lng: -116.40218
+
+# ---------- Jasper (3–6 ago) ----------
+- id: camp_jasper
+  nombre: Jasper – Whistlers Campground
+  dia: "3–6 ago · sitio 50H"
+  semaforo: "🔵"
+  maps_query: "Whistlers Campground, Jasper"
+  lat: 52.84639
+  lng: -118.07791
+
+- id: jasper_town
+  nombre: Jasper (pueblo)
+  dia: "Jasper"
+  semaforo: "🟡"
+  maps_query: "Jasper, Alberta"
+  lat: 52.87523
+  lng: -118.08243
+  foto: jasper_town.jpg
+  credito: "Joli Rumi"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Jasper_sign_in_Jasper_town,_Alberta,_Canada.jpg"
+  licencia: "CC BY-SA 4.0"
+  video: "https://www.youtube.com/watch?v=biyUij037b4"
+
+- id: skytram
+  nombre: Jasper SkyTram (Whistlers)
+  dia: "Jasper"
+  semaforo: "🟡"
+  maps_query: "Jasper SkyTram"
+  lat: 52.84361
+  lng: -118.12508
+  video: "https://www.youtube.com/watch?v=3FkyBvuBrxU"
+
+- id: maligne_canyon
+  nombre: Maligne Canyon
+  dia: "Jasper"
+  semaforo: "🟡"
+  maps_query: "Maligne Canyon, Jasper"
+  lat: 52.91978
+  lng: -118.01016
+  foto: maligne_canyon.jpg
+  credito: "chensiyuan"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Maligne_canyon_z.JPG"
+  licencia: "CC BY-SA 4.0"
+  video: "https://www.youtube.com/watch?v=X5okAv5qtpo"
+
+- id: pyramid_lake
+  nombre: Pyramid Lake
+  dia: "Jasper"
+  semaforo: "🟢"
+  maps_query: "Pyramid Lake, Jasper"
+  lat: 52.92232
+  lng: -118.09886
+  foto: pyramid_lake.jpg
+  credito: "Joli Rumi"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Pyramid_lake_in_Jasper_town,_Alberta,_Canada.jpg"
+  licencia: "CC BY-SA 4.0"
+  video: "https://www.youtube.com/watch?v=b2aSC90yZ0U"
+
+- id: miette
+  nombre: Miette Hot Springs
+  dia: "Jasper (~60 km)"
+  semaforo: "🟡"
+  maps_query: "Miette Hot Springs, Jasper"
+  lat: 53.13019
+  lng: -117.76954
+  foto: miette.jpg
+  credito: "Jon Eeuwes"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Source_of_the_spring_2,_Miette_Hot_Springs,_Jasper_AB.jpg"
+  licencia: "CC BY-SA 4.0"
+
+- id: edith_cavell
+  nombre: Mount Edith Cavell (Angel Glacier)
+  dia: "Jasper / Icefields"
+  semaforo: "🟢"
+  maps_query: "Mount Edith Cavell, Jasper"
+  lat: 52.75671
+  lng: -118.04375
+  foto: edith_cavell.jpg
+  credito: "Khoshhat"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Mount_Edith_Cavell_Summit.jpg"
+  licencia: "CC BY-SA 4.0"
+
+# ---------- Icefields Parkway (6–8 ago) ----------
+- id: camp_silverhorn
+  nombre: Icefields – Silverhorn Creek Campground
+  dia: "6–8 ago · sitio 39"
+  semaforo: "🔵"
+  maps_query: "Silverhorn Creek Campground, Icefields Parkway"
+  lat: 51.80109
+  lng: -116.58575
+
+- id: columbia_icefield
+  nombre: Columbia Icefield / Glaciar Athabasca
+  dia: "Icefields"
+  semaforo: "🟡"
+  maps_query: "Columbia Icefield Discovery Centre"
+  lat: 52.18842
+  lng: -117.25833
+  foto: columbia_icefield.jpg
+  credito: "Ethan Sahagun"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Mount_Andromeda_from_the_Athabasca_Glacier.jpg"
+  licencia: "CC BY-SA 4.0"
+  video: "https://www.youtube.com/watch?v=4t6jZACRd68"
+
+- id: tangle_falls
+  nombre: Tangle Creek Falls
+  dia: "Icefields"
+  semaforo: "🟢"
+  maps_query: "Tangle Creek Falls, Icefields Parkway"
+  lat: 52.2479
+  lng: -117.3115
+
+- id: sunwapta_falls
+  nombre: Sunwapta Falls
+  dia: "Icefields"
+  semaforo: "🟢"
+  maps_query: "Sunwapta Falls, Jasper"
+  lat: 52.53234
+  lng: -117.64463
+  foto: sunwapta_falls.jpg
+  credito: "Bitan Banerjee"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Sunwapta_Falls_Jasper_National_Park_Canada.jpg"
+  licencia: "CC BY-SA 4.0"
+
+- id: athabasca_falls
+  nombre: Athabasca Falls
+  dia: "Icefields"
+  semaforo: "🟢"
+  maps_query: "Athabasca Falls, Jasper"
+  lat: 52.66442
+  lng: -117.88352
+  foto: athabasca_falls.jpg
+  credito: "Ken Thomas"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Athabasca_Falls-27527.jpg"
+  licencia: "Dominio público"
+
+- id: peyto_lake
+  nombre: Peyto Lake
+  dia: "Icefields"
+  semaforo: "🟡"
+  maps_query: "Peyto Lake, Banff"
+  lat: 51.72519
+  lng: -116.5223
+  foto: peyto_lake.jpg
+  credito: "Tobias Alt (Tobi 87)"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Peyto_Lake-Banff_NP-Canada.jpg"
+  licencia: "CC BY-SA 4.0"
+
+# ---------- Lake Louise (8–12 ago) ----------
+- id: camp_lakelouise
+  nombre: Lake Louise Campground
+  dia: "8–12 ago · sitio 39"
+  semaforo: "🔵"
+  maps_query: "Lake Louise Campground, Alberta"
+  lat: 51.41684
+  lng: -116.17831
+
+- id: lake_louise
+  nombre: Lake Louise
+  dia: "8–12 ago"
+  semaforo: "🔴"
+  maps_query: "Lake Louise, Alberta"
+  lat: 51.42497
+  lng: -116.17754
+  foto: lake_louise.jpg
+  credito: "Chensiyuan"
+  credito_url: "https://commons.wikimedia.org/wiki/File:1_lake_louise_pano_2019.jpg"
+  licencia: "CC BY-SA 4.0"
+  video: "https://www.youtube.com/watch?v=RVqNwp0CrPs"
+
+- id: moraine_lake
+  nombre: Moraine Lake
+  dia: "8–12 ago"
+  semaforo: "🔴"
+  maps_query: "Moraine Lake, Banff"
+  lat: 51.32157
+  lng: -116.18599
+  foto: moraine_lake.jpg
+  credito: "Gorgo"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Moraine_Lake_17092005.jpg"
+  licencia: "Dominio público"
+  video: "https://www.youtube.com/watch?v=NeZ6MbTOZvg"
+  hero: true
+
+# ---------- Kootenay (12–16 ago) ----------
+- id: camp_kootenay
+  nombre: Kootenay – Redstreak Campground
+  dia: "12–16 ago · sitio H3"
+  semaforo: "🔵"
+  maps_query: "Redstreak Campground, Radium Hot Springs"
+  lat: 50.62732
+  lng: -116.05785
+
+- id: radium
+  nombre: Radium Hot Springs
+  dia: "Kootenay"
+  semaforo: "🟡"
+  maps_query: "Radium Hot Springs Pools, British Columbia"
+  lat: 50.62007
+  lng: -116.07606
+  foto: radium.jpg
+  credito: "Byron Harmon (histórica)"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Radium_Hot_Springs_Pool_House.jpg"
+  licencia: "Dominio público"
+  video: "https://www.youtube.com/watch?v=yPLhn2P0Xjs"
+
+- id: marble_canyon
+  nombre: Marble Canyon
+  dia: "Kootenay"
+  semaforo: "🟢"
+  maps_query: "Marble Canyon, Kootenay National Park"
+  lat: 51.1503
+  lng: -116.1331
+  foto: marble_canyon.jpg
+  credito: "Chris Woodrich"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Shale_formation,_Marble_Canyon,_Kootenay_National_Park,_British_Columbia,_2025-07-11.jpg"
+  licencia: "CC BY-SA 4.0"
+  video: "https://www.youtube.com/watch?v=huDLgHUYEJk"
+
+# ---------- Kananaskis / salida (20–22 ago) ----------
+- id: camp_bowvalley
+  nombre: Bow Valley Campground (Kananaskis)
+  dia: "20–22 ago · Loop D, D-02"
+  semaforo: "🔵"
+  maps_query: "Bow Valley Campground, Bow Valley Provincial Park, Alberta"
+  lat: 51.0490
+  lng: -115.0680
+
+- id: canmore
+  nombre: Canmore
+  dia: "20–22 ago"
+  semaforo: "🟡"
+  maps_query: "Canmore, Alberta"
+  lat: 51.08669
+  lng: -115.34811
