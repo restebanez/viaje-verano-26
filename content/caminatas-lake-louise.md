@@ -9,21 +9,21 @@
 > **Roam 8X**; el parking del lago se llena de madrugada. **Moraine** solo shuttle/tour.
 
 ### Lake Louise Lakeshore
-4,7 km i/v · llano · ~1,5 h · fácil · 🚌 shuttle/Park&Ride · sin cortados · 🚌 ~10 min al Park & Ride + shuttle · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=51.41684,-116.17831&destination=51.4176,-116.2178&travelmode=driving) · [Ruta](https://www.alltrails.com/trail/canada/alberta/lake-louise-lakeshore)
+4,7 km i/v · llano · ~1,5 h · fácil · 🚌 shuttle/Park&Ride · sin cortados · 🚌 ~10 min al Park & Ride + shuttle · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=51.41684,-116.17831&destination=Lake+Louise+Park+and+Ride&travelmode=driving) · [Ruta](https://www.alltrails.com/trail/canada/alberta/lake-louise-lakeshore)
 
 Paseo llano por la orilla del lago turquesa más famoso, frente al Chateau y el glaciar Victoria,
 hasta el fondo del valle. **Por qué hacerla:** la estampa icónica, fácil y para todos. **Gente:**
 🔴 de las más concurridas del país (shuttle o llegar muy pronto).
 
 ### Lake Agnes Tea House
-7,4 km i/v · +400 m · ~3–3,5 h · moderada · 🚌 · sin cortados · 🚌 ~10 min al Park & Ride + shuttle · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=51.41684,-116.17831&destination=51.4264,-116.2533&travelmode=driving) · [Ruta](https://www.alltrails.com/trail/canada/alberta/lake-agnes-trail)
+7,4 km i/v · +400 m · ~3–3,5 h · moderada · 🚌 · sin cortados · 🚌 ~10 min al Park & Ride + shuttle · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=51.41684,-116.17831&destination=Lake+Louise+Park+and+Ride&travelmode=driving) · [Ruta](https://www.alltrails.com/trail/canada/alberta/lake-agnes-trail)
 
 Zigzags por bosque pasando el Mirror Lake hasta una **casa de té histórica (1901)** junto a un
 lago alpino, con cascada. **Por qué hacerla:** clásico precioso con recompensa (té y tarta arriba).
 **Gente:** 🔴.
 
 ### Plain of Six Glaciers
-~14 km i/v · +585 m · ~4,5–5 h · moderada (gran día) · 🚌 · cautela en el tramo final · 🚌 ~10 min al Park & Ride + shuttle · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=51.41684,-116.17831&destination=51.402,-116.275&travelmode=driving) · [Ruta](https://www.alltrails.com/trail/canada/alberta/plain-of-six-glaciers-trail)
+~14 km i/v · +585 m · ~4,5–5 h · moderada (gran día) · 🚌 · cautela en el tramo final · 🚌 ~10 min al Park & Ride + shuttle · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=51.41684,-116.17831&destination=Lake+Louise+Park+and+Ride&travelmode=driving) · [Ruta](https://www.alltrails.com/trail/canada/alberta/plain-of-six-glaciers-trail)
 
 Recorre el valle bajo el **glaciar Victoria** hasta otra casa de té y un mirador entre hielo donde
 se oye crujir los glaciares. **Por qué hacerla:** el gran día épico de Lake Louise, mucho más
@@ -31,7 +31,7 @@ salvaje que la orilla. **Gente:** 🟡 (se vacía bastante pasada la orilla). Ha
 razonable; más allá hay morrena y piedra suelta (cautela con Darío).
 
 ### Larch Valley ⛰️
-~8,6 km i/v · +535 m · ~3,5 h · moderada · 🚌 **desde Moraine** · parad en el valle · 🚌 ~10 min al Park & Ride + shuttle a Moraine · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=51.41684,-116.17831&destination=51.342,-116.197&travelmode=driving) · [Ruta](https://www.alltrails.com/trail/canada/alberta/larch-valley--3)
+~8,6 km i/v · +535 m · ~3,5 h · moderada · 🚌 **desde Moraine** · parad en el valle · 🚌 ~10 min al Park & Ride + shuttle a Moraine · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=51.41684,-116.17831&destination=Lake+Louise+Park+and+Ride&travelmode=driving) · [Ruta](https://www.alltrails.com/trail/canada/alberta/larch-valley--3)
 
 Zigzags desde Moraine hasta unos **prados alpinos de alerces** bajo el anfiteatro de los Diez
 Picos. **Por qué hacerla:** uno de los paisajes más espectaculares de las Rocosas. **Gente:** 🔴

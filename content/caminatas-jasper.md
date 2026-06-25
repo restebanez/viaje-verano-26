@@ -21,7 +21,7 @@ Vuelta llana y asfaltada a uno de los lagos **más cálidos** de las Rocosas, co
 los fines de semana).
 
 ### Sulphur Skyline ⛰️
-8 km i/v · +700 m · ~3,5–5 h · dura · 🚐 (Miette, ~1 h del pueblo) · sin cortados · 🚗 ~1 h 15 del camping (Miette) · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=52.84639,-118.07791&destination=53.1255,-117.772&travelmode=driving) · [Ruta](https://www.alltrails.com/trail/canada/alberta/sulphur-skyline-trail)
+8 km i/v · +700 m · ~4–6 h con niño · dura · 🚐 (Miette, ~1 h del pueblo) · sin cortados · 🚗 ~1 h 15 del camping (Miette) · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=52.84639,-118.07791&destination=53.1255,-117.772&travelmode=driving) · [Ruta](https://www.alltrails.com/trail/canada/alberta/sulphur-skyline-trail)
 
 Subida directa y sostenida (sin apenas tregua) hasta una **cima abierta y ventosa** con panorámica
 de 360°; empieza junto a las **termas de Miette**. **Por qué hacerla:** la mejor caminata fuerte de

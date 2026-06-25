@@ -21,7 +21,7 @@ las cascadas Lower y la Upper (30 m). **Por qué hacerla:** espectacular y muy f
 y túneles encantan a los niños. **Gente:** 🔴 de las más visitadas — id muy pronto o en el bus Roam 9.
 
 ### C-Level Cirque
-9 km i/v · +455 m · ~3,5 h · moderada · 🚐 Upper Bankhead · sin cortados · 🚗 ~15 min del camping · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=51.18883,-115.54162&destination=51.2155,-115.5165&travelmode=driving) · [Ruta](https://www.alltrails.com/trail/canada/alberta/clevel-cirque)
+7,8 km i/v · +455 m · ~3–3,5 h · moderada · 🚐 Upper Bankhead · sin cortados · 🚗 ~15 min del camping · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=51.18883,-115.54162&destination=51.2155,-115.5165&travelmode=driving) · [Ruta](https://www.alltrails.com/trail/canada/alberta/clevel-cirque)
 
 Sube por bosque pasando **ruinas y respiraderos de la mina de Bankhead** hasta un circo glaciar
 en la cara norte del Cascade Mountain. **Por qué hacerla:** pendiente y roca con historia minera

@@ -21,7 +21,7 @@ la base (mojado y resbaladizo). **Por qué hacerla:** mucho espectáculo con poc
 con niño. **Gente:** 🟡.
 
 ### Sherbrooke Lake
-6 km i/v · +250 m · ~2 h · fácil-moderada · 🚐 (Wapta Lake) · sin cortados · 🚗 ~10 min del camping · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=51.42318,-116.43507&destination=51.4475,-116.37&travelmode=driving) · [Ruta](https://www.alltrails.com/trail/canada/british-columbia/paget-lookout-and-sherbrooke-lake)
+6 km i/v · +250 m · ~2 h · fácil-moderada · 🚐 (Wapta Lake) · sin cortados · 🚗 ~10 min del camping · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=51.42318,-116.43507&destination=51.4475,-116.37&travelmode=driving) · [Ruta](https://www.alltrails.com/trail/canada/british-columbia/sherbrooke-lake)
 
 Subida suave por bosque hasta un lago turquesa tranquilo encajado entre montañas. **Por qué
 hacerla:** alternativa serena y bonita, sin masas. **Gente:** 🟢.

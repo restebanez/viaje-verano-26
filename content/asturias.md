@@ -46,7 +46,7 @@ Día de coche; no metáis ruta de montaña.
 - **Tarde (tranquila):** casco de Cangas — **Puente Romano** con la Cruz de la
   Victoria, paseo por la ribera del Sella, sidrería y helado.
 - **Si hace calor:** chapuzón fácil y cercano en la **Playa fluvial de Aballe**
-  (~15 min, corriente suave apta para niños) → 🏖️ ficha en [Playas](./playas-asturias.html).
+  (~10 min, corriente suave apta para niños) → 🏖️ ficha en [Playas](./playas-asturias.html).
   ⚠️ No confundir con "La Pesanca", que está en **Piloña**, no en Cangas.
 - **Veredicto:** día de recuperación. 🟢 el casco se lleva bien; Aballe, tranquilo.
 

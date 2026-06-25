@@ -174,7 +174,7 @@ function renderMd(file, byId) {
   return { titulo, html };
 }
 
-const dirUrl = (o, l) => `https://www.google.com/maps/dir/?api=1&origin=${o.lat},${o.lng}&destination=${l.lat},${l.lng}&travelmode=driving`;
+const dirUrl = (o, l) => `https://www.google.com/maps/dir/?api=1&origin=${o.lat},${o.lng}&destination=${l.dir_dest ? encodeURIComponent(l.dir_dest) : `${l.lat},${l.lng}`}&travelmode=driving`;
 function mapPointsDe(lug, origin = null) {
   return lug.filter((l) => typeof l.lat === 'number' && typeof l.lng === 'number').map((l) => ({
     nombre: l.nombre, dia: l.dia || '', color: colorDe(l.semaforo), lat: l.lat, lng: l.lng,

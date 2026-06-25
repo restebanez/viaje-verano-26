@@ -337,6 +337,7 @@
   tipo: lugar
   base: lake-louise
   tiempo: "🚌 ~10 min al Park & Ride + shuttle"
+  dir_dest: "Lake Louise Park and Ride"
   nombre: Lake Louise
   dia: "8–12 ago"
   semaforo: "🔴"
@@ -354,6 +355,7 @@
   tipo: lugar
   base: lake-louise
   tiempo: "🚌 ~10 min al Park & Ride + shuttle (~20 min)"
+  dir_dest: "Lake Louise Park and Ride"
   nombre: Moraine Lake
   dia: "8–12 ago"
   semaforo: "🔴"
@@ -500,9 +502,10 @@
   tipo: caminata
   base: lake-louise
   tiempo: "🚌 ~10 min al Park & Ride + shuttle"
+  dir_dest: "Lake Louise Park and Ride"
   nombre: Lake Agnes Tea House
   dia: "Lake Louise · caminata"
-  semaforo: "🟢"
+  semaforo: "🔴"
   maps_query: "Lake Agnes Tea House, Lake Louise"
   lat: 51.4264
   lng: -116.2533
@@ -526,7 +529,7 @@
   tiempo: "🚗 ~1 h del camping"
   nombre: Wilcox Pass (vista glaciar Athabasca)
   dia: "Icefields · caminata"
-  semaforo: "🟢"
+  semaforo: "🟡"
   maps_query: "Wilcox Pass Trailhead, Icefields Parkway"
   lat: 52.2050
   lng: -117.1840
@@ -583,7 +586,7 @@
 - id: many_springs
   tipo: caminata
   base: kananaskis
-  tiempo: "🚶 junto al camping (~1 min)"
+  tiempo: "🚗 ~3 min del camping (Many Springs Day Use)"
   nombre: Many Springs (Bow Valley PP, circular)
   dia: "Bow Valley · junto al camping"
   semaforo: "🟢"
@@ -655,9 +658,10 @@
   tipo: caminata
   base: lake-louise
   tiempo: "🚌 ~10 min al Park & Ride + shuttle"
+  dir_dest: "Lake Louise Park and Ride"
   nombre: Plain of Six Glaciers
   dia: "Lake Louise · gran día"
-  semaforo: "🟢"
+  semaforo: "🟡"
   maps_query: "Plain of Six Glaciers Tea House, Lake Louise"
   lat: 51.4020
   lng: -116.2750
@@ -667,9 +671,10 @@
   tipo: caminata
   base: lake-louise
   tiempo: "🚌 ~10 min al Park & Ride + shuttle a Moraine"
+  dir_dest: "Lake Louise Park and Ride"
   nombre: Larch Valley (desde Moraine)
   dia: "Lake Louise · shuttle a Moraine"
-  semaforo: "🟢"
+  semaforo: "🔴"
   maps_query: "Larch Valley Trail, Moraine Lake"
   lat: 51.3420
   lng: -116.1970

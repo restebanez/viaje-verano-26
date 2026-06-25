@@ -34,7 +34,7 @@ pequeño) → llegad **9:30–10:00** y con marea baja.
 
 ### La Griega (Colunga) 🟡
 {{media:griega}}
-🏖️ arena · 🛟 salvamento (1 jul–9 sep) · 🅿️ parking amplio (100+) · 🦕 huellas de dinosaurio · 🚗 ~50 min (de camino al aeropuerto) · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=43.35018,-5.13215&destination=43.50146,-5.25972&travelmode=driving)
+🏖️ arena · 🛟 salvamento (Colunga, desde 1 jul; confirmar fin) · 🅿️ parking amplio (100+) · 🦕 huellas de dinosaurio · 🚗 ~50 min (de camino al aeropuerto) · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=43.35018,-5.13215&destination=43.50146,-5.25972&travelmode=driving)
 
 Arenal familiar y resguardado, con **piscinas naturales en bajamar** ideales para niños y
 **huellas de dinosaurio** a ~500 m (lado derecho, con marea baja; calzado cerrado). **Por qué
@@ -42,7 +42,7 @@ ir:** cómoda y con aliciente para el peque; perfecta el **día de salida**, por
 **Gente:** 🟡.
 
 ### Playa fluvial de Aballe 🟢
-🌊 río (Sella) · 🌳 sombra · sin servicios · 🚗 ~15 min de Cangas · 🗺️ [Mapa](https://www.google.com/maps/search/?api=1&query=Playa+fluvial+de+Aballe%2C+Parres) · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=43.35018,-5.13215&destination=43.32727,-5.1435&travelmode=driving)
+🌊 río (Sella) · 🌳 sombra · sin servicios · 🚗 ~10 min de Cangas · 🗺️ [Mapa](https://www.google.com/maps/search/?api=1&query=Playa+fluvial+de+Aballe%2C+Parres) · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=43.35018,-5.13215&destination=43.32727,-5.1435&travelmode=driving)
 
 Zona de baño señalizada del Sella, con **corriente suave apta para niños** y sombra de árboles;
 un rincón tranquilo y poco conocido. **Por qué ir:** chapuzón fácil y cercano sin bajar a la
@@ -50,7 +50,8 @@ costa (ideal el día de llegada). **Gente:** 🟢. ⚠️ río abierto: corrient
 variable, rocas resbaladizas; no hay bar (llevad agua y picnic).
 
 > 🟡🔴 **Gulpiyuri** (la mini-playa interior famosa): preciosa y curiosa, pero son **40 m de
-> arena que se masifican** y dependen mucho de la marea. Solo merece la pena **muy pronto o a
+> arena que se masifican** y dependen mucho de la marea (**con marea alta entra el agua**; en
+> bajamar queda casi seca). Solo merece la pena **muy pronto o a
 > última hora**; a mediodía en julio, mejor evitarla.
 
 **Plan B si el mar está fuerte:** La Griega es la más resguardada y familiar.

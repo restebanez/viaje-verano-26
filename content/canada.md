@@ -238,6 +238,10 @@ Tiempos de **coche** (OSRM, sobre coordenadas reales); con la autocaravana y las
 aunque son pocos km, es **día entero** por las paradas (Athabasca/Sunwapta Falls, glaciar,
 Peyto Lake). El resto son trayectos cómodos de 1–2,5 h.
 
+> ⚠️ **Obras 2026 en la Hwy 93S (Kootenay):** rehabilitación del puente de Sinclair Canyon y del
+> túnel (hasta **octubre 2026**) → tráfico alterno y **esperas de hasta 45 min** en hora punta.
+> Afecta a **Lake Louise → Radium (12 ago)** y **Radium → Banff (16 ago)**: sumad margen.
+
 ---
 
 ## 🥾 Caminatas de un vistazo
@@ -248,7 +252,7 @@ Peyto Lake). El resto son trayectos cómodos de 1–2,5 h.
 |---|---|---|---|---|---|---|---|---|
 | Johnson Lake | Banff | 2,9 | +50 | 1 h | ⭕ | 💦 | 🚐 | No |
 | Johnston Canyon | Banff | 5,5 | +250 | 2–2,5 h | i/v | – | 🚌/🚐 | No (barandilla) |
-| C-Level Cirque | Banff | 9 | +455 | 3,5 h | i/v | – | 🚐 | No |
+| C-Level Cirque | Banff | 7,8 | +455 | 3–3,5 h | i/v | – | 🚐 | No |
 | Tunnel Mountain | Banff | 4,7 | +260 | 1,5–2 h | i/v | – | 🚶 | Borde en la cima |
 | Sundance Canyon | Banff | 9 | +145 | 2,5–3 h | bucle | – | 🚐/🚌 | No |
 | Sanson's Peak (góndola) | Banff | 2 | llano | 0,75 h | i/v | – | 🚠 | No (barandilla) |
@@ -260,7 +264,7 @@ Peyto Lake). El resto son trayectos cómodos de 1–2,5 h.
 | ⛰️ Hamilton Lake | Yoho | 11 | +850 | ~5 h | i/v | – | 🚐 | No |
 | Valley of the Five Lakes | Jasper | 5,5 | +120 | 2 h | ⭕ | 💦 | 🚐 | No |
 | Lake Annette | Jasper | 2,7 | llano | 0,75 h | ⭕ | 💦 | 🚐 | No |
-| Sulphur Skyline | Jasper | 8 | +700 | 3,5–5 h | i/v | – | 🚐 | No |
+| Sulphur Skyline | Jasper | 8 | +700 | 4–6 h | i/v | – | 🚐 | No |
 | Wilcox Pass (Red Chairs) | Icefields | 4 | +130 | 1,5 h | i/v | – | 🚐 | Borde en el mirador |
 | Parker Ridge | Icefields | 5 | +250 | 2,5 h | i/v | – | 🚐 | Borde en el mirador |
 | Lake Louise Lakeshore | L. Louise | 4,7 | llano | 1,5 h | i/v | – | 🚌 | No |
@@ -270,7 +274,7 @@ Peyto Lake). El resto son trayectos cómodos de 1–2,5 h.
 | Stanley Glacier | Kootenay | 9,8 | +405 | 3 h | i/v | – | 🚐 | No |
 | Juniper Loop | Kootenay | 6 | +300 | 2 h | ⭕ | – | 🚐 | No |
 | Marble Canyon | Kootenay | 1,6 | llano | 0,75 h | i/v | – | 🚐 | No (barandilla) |
-| Grotto Canyon | Kananaskis | 4 | +80 | 1,5 h | i/v | – | 🚐 | No |
+| Grotto Canyon | Kananaskis | 4,2 | +120 | 1,5–2 h | i/v | – | 🚐 | No |
 | Troll Falls | Kananaskis | 3,5 | +60 | 1–1,5 h | i/v | – | 🚐 | No |
 | Many Springs | Kananaskis | 1,6 | llano | 0,5 h | ⭕ | – | 🚶 | No |
 
@@ -308,7 +312,7 @@ Peyto Lake). El resto son trayectos cómodos de 1–2,5 h.
 | Actividad | Adulto | Notas |
 |---|---|---|
 | Banff Gondola | ~88 $ | dinámico (más barato online) |
-| Banff Upper Hot Springs | ~17 $ | |
+| Banff Upper Hot Springs | 19,75 $ | niño/senior 17,25 $ · familia 64,25 $ |
 | Columbia Icefield (Ice Explorer + Skywalk) | ~125 $ | reservar |
 | Jasper SkyTram | ~78 $ | reservar / dinámico |
 | Crucero Maligne Lake (Spirit Island) | ~115 $ | reservar (se agota) |
@@ -334,7 +338,9 @@ Explorer" (Gondola + crucero Banff + Columbia Icefield) ~258 $. **Entrada a parq
   Safeway). En Banff/Jasper/Lake Louise hay tiendas (más caras); **Field y Saskatchewan Crossing**
   muy limitados.
 - ⚠️ **Icefields Parkway: ~230 km sin cobertura** → repostad, llenad agua y **descargad mapas
-  offline** antes (en Lake Louise o Jasper). Gasolina escasa y cara dentro de los parques.
+  offline** antes (en Lake Louise o Jasper). **Última gasolina fiable: Lake Louise / Jasper**;
+  Saskatchewan Crossing es la única intermedia (cara y limitada). Gasolina escasa y cara dentro
+  de los parques.
 
 ---
 

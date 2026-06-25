@@ -18,7 +18,8 @@ paisaje grande, fácil de seguir y un toque de geología. **Gente:** 🟡.
 
 Bucle por **bosque seco** (pinos ponderosa, enebros) asomado a las paredes rojas del **Sinclair
 Canyon** y la falla Redwall; suele haber ovejas de montaña. **Por qué hacerla:** ecosistema único,
-muy cerca del camping y poco transitada. **Gente:** 🟢. ⚠️ obras en Sinclair Canyon en 2026.
+muy cerca del camping y poco transitada. Sin exposición en el sendero (cuidado en los miradores
+sobre Sinclair Canyon: niño cerca). **Gente:** 🟢. ⚠️ obras en Sinclair Canyon en 2026 (Hwy 93S).
 
 ### Marble Canyon
 1,6 km i/v · llano · ~0,75 h · muy fácil · 🚐 (Hwy 93) · sin cortados (barandilla) · 🚗 ~1 h 30 del camping · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=50.62732,-116.05785&destination=51.1503,-116.1331&travelmode=driving) · [Ruta](https://www.alltrails.com/trail/canada/british-columbia/marble-canyon)
