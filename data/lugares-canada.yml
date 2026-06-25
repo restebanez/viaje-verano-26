@@ -324,6 +324,7 @@
   credito_url: "https://commons.wikimedia.org/wiki/File:1_lake_louise_pano_2019.jpg"
   licencia: "CC BY-SA 4.0"
   video: "https://www.youtube.com/watch?v=RVqNwp0CrPs"
+  ruta: "https://www.alltrails.com/trail/canada/alberta/lake-louise-lakeshore"
 
 - id: moraine_lake
   nombre: Moraine Lake
@@ -463,3 +464,56 @@
   lat: 50.94829
   lng: -115.14729
   ruta: "https://www.alltrails.com/trail/canada/alberta/troll-falls"
+
+- id: wilcox_pass
+  nombre: Wilcox Pass (vista glaciar Athabasca)
+  dia: "Icefields · caminata"
+  semaforo: "🟢"
+  maps_query: "Wilcox Pass Trailhead, Icefields Parkway"
+  lat: 52.2050
+  lng: -117.1840
+  ruta: "https://www.alltrails.com/trail/canada/alberta/wilcox-viewpoint-via-wilcox-pass"
+
+- id: juniper_loop
+  nombre: Juniper Loop (Sinclair Canyon)
+  dia: "Kootenay · circular"
+  semaforo: "🟢"
+  maps_query: "Juniper Trailhead, Radium Hot Springs"
+  lat: 50.6250
+  lng: -116.0610
+  ruta: "https://www.alltrails.com/trail/canada/british-columbia/juniper-loop"
+
+- id: tunnel_mountain
+  nombre: Tunnel Mountain Summit
+  dia: "Banff · andando desde el camping"
+  semaforo: "🟢"
+  maps_query: "Tunnel Mountain Trailhead, Banff"
+  lat: 51.17510
+  lng: -115.56131
+  ruta: "https://www.alltrails.com/trail/canada/alberta/tunnel-mountain-summit"
+
+- id: sundance_canyon
+  nombre: Sundance Canyon
+  dia: "Banff · caminata"
+  semaforo: "🟢"
+  maps_query: "Sundance Canyon Trail, Cave and Basin, Banff"
+  lat: 51.1700
+  lng: -115.5930
+  ruta: "https://www.alltrails.com/trail/canada/alberta/sundance-canyon-trail--2"
+
+- id: grotto_canyon
+  nombre: Grotto Canyon (pictografías)
+  dia: "Canmore · caminata"
+  semaforo: "🟢"
+  maps_query: "Grotto Canyon Trailhead, Alberta"
+  lat: 51.0840
+  lng: -115.2640
+  ruta: "https://www.alltrails.com/trail/canada/alberta/grotto-canyon-trail"
+
+- id: many_springs
+  nombre: Many Springs (Bow Valley PP, circular)
+  dia: "Bow Valley · junto al camping"
+  semaforo: "🟢"
+  maps_query: "Many Springs Trail, Bow Valley Provincial Park"
+  lat: 51.0560
+  lng: -115.0560
