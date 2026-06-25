@@ -9,6 +9,16 @@ Lake Louise y Kootenay**, más Kananaskis al final.
 > se paga: camping, parking, termas, teleféricos y tours (p. ej. el Ice Explorer). Las
 > reservas de camping (abajo) van aparte. Check-in 14:00 · check-out 11:00.
 
+## 🧭 Cómo leer esta página
+
+- **Mapa (arriba):** 🔵 base/camping · 🟢 actividad/naturaleza · 🟡 popular · 🔴 con
+  reserva/muy concurrido. Pincha un pin para abrir **Google Maps**, el **vídeo** y la **ruta**.
+- **Símbolos:** 🥾 caminata (≤4 h) · ⭕ circular · 💦 baño · ♨️ termas · 🚐 se llega/aparca
+  con la autocaravana · 🚌 hay bus o shuttle.
+- **Cada etapa** lleva: fechas, **nº de reserva y sitio**, qué ver, **2 caminatas** con su
+  acceso, y fichas con foto + vídeo + mapa. Abajo: tabla de **conducción entre campings**,
+  reservas y **dónde bañarse**.
+
 ---
 
 ## ✈️ Vuelos
@@ -217,6 +227,29 @@ autocaravana.
 | Kootenay – Redstreak | 12–16 ago | INPC25-12281160B2 | H3 |
 | Banff – Tunnel Mountain V2 | 16–20 ago | INPC25-15799267B3 | A11 |
 | Bow Valley (Kananaskis) | 20–22 ago | 2-1456249 | Loop D · D-02 |
+
+---
+
+## 🚐 Conducción entre campings
+
+Tiempos de **coche** (OSRM, sobre coordenadas reales); con la autocaravana y las paradas,
+**sumad margen**. Total del viaje: **~1.130 km**.
+
+| Día | Trayecto | Distancia | Tiempo coche |
+|---|---|---|---|
+| 28 jul | Calgary → Banff | 141 km | ~1 h 50 |
+| 30 jul | Banff → Yoho (Field) | 83 km | ~1 h 20 |
+| 3 ago | **Yoho → Jasper** ⚠️ | 247 km | ~3 h 45 |
+| 6 ago | Jasper → Silverhorn (Icefields) | 175 km | ~2 h 45 |
+| 8 ago | Silverhorn → Lake Louise | 57 km | ~1 h |
+| 12 ago | Lake Louise → Kootenay (Radium) | 136 km | ~2 h 20 |
+| 16 ago | Kootenay → Banff | 141 km | ~2 h 25 |
+| 20 ago | Banff → Bow Valley | 55 km | ~1 h |
+| 22 ago | Bow Valley → aeropuerto | 91 km | ~1 h 25 |
+
+⚠️ **Yoho → Jasper (3 ago)** es la tirada larga. Y el **6 ago** por la **Icefields Parkway**:
+aunque son pocos km, es **día entero** por las paradas (Athabasca/Sunwapta Falls, glaciar,
+Peyto Lake). El resto son trayectos cómodos de 1–2,5 h.
 
 ---
 
