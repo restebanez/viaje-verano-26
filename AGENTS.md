@@ -14,10 +14,12 @@ fuente (MD + YAML) y se regenera el HTML.** No es una app.
 
 **Páginas por destino:** cada parte tiene un array `dias` en `PARTS`; cada entrada genera
 `<slug>.html`. Canadá tiene **una página de caminatas por base**, p. ej.
-`{ slug:'caminatas-banff', titulo:'Banff', content:'caminatas-banff.md' }` → `caminatas-banff.html`,
-enlazada desde el resumen de la parte ("🥾 Caminatas por base") y desde cada etapa del
-itinerario (`content/canada.md`). Opcional `mapAll:true` para incluir el mapa de la parte;
-reutiliza el YAML de la parte para `{{media:id}}`. Los títulos `##` llevan id automático (anclas).
+`{ slug:'caminatas-banff', titulo:'Banff', content:'caminatas-banff.md', base:'banff' }` →
+`caminatas-banff.html`, enlazada desde el resumen de la parte ("🥾 Caminatas por base") y desde
+cada etapa del itinerario (`content/canada.md`). El `base` de la entrada dibuja un **mapa propio
+filtrado** (el camping de esa base + sus caminatas/playas); en Asturias se añade
+`tipos:['base','playa']` o `['base','caminata']` para separar playas de caminatas en la misma base.
+Reutiliza el YAML de la parte para `{{media:id}}`. Los títulos `##`/`###` llevan id automático (anclas).
 
 Para añadir una parte nueva: crea el `.md` y el `.yml` y añade una entrada a `PARTS`.
 
@@ -57,7 +59,10 @@ construye y despliega en GitHub Pages.
 3. **Privacidad:** el sitio lleva `noindex` + `robots.txt` Disallow (no debe salir
    en buscadores). Mantenlo así salvo que el dueño pida lo contrario.
 4. **Mapa:** Leaflet + OpenStreetMap (sin API key). Cada lugar necesita `lat`/`lng`
-   para salir en el mapa; el enlace "Abrir en Google Maps" usa `maps_query`.
+   para salir en el mapa; el enlace "Abrir en Google Maps" usa `maps_query`. El **mapa
+   principal** de la parte muestra bases + sitios y **oculta `tipo: caminata`**; cada **página
+   por destino** muestra su base + sus puntos (filtrado por `base`). El campo `tiempo`
+   (base→inicio) sale en el popup del marcador.
 5. **Datos sensibles:** contrasta antes de publicar (mareas, accesos, distancias).
    Errores ya corregidos: La Pesanca está en Piloña (no Cangas); Colunga→aeropuerto
    son ~79 km (no 107).
@@ -76,6 +81,9 @@ Pon `{{media:ID}}` en su propia línea, con una línea en blanco antes y despué
   nombre: Olla de San Vicente
   dia: "Jue 23"
   semaforo: "🔴"            # 🟢 tranquilo · 🟡 llevadero · 🔴 masificado
+  tipo: caminata            # base | caminata | playa | (vacío = sitio del mapa principal)
+  base: ast                 # agrupa en el mapa de su página por destino (slug de la base)
+  tiempo: "🚗 ~10 min de Cangas"   # tiempo base→inicio (popup del mapa; en la ficha va aparte)
   maps_query: "Aparcamiento Olla de San Vicente"
   lat: 43.30613
   lng: -5.12837

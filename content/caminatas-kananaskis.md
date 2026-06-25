@@ -14,14 +14,14 @@ Bucle llano por un humedal de **manantiales** de agua clara dentro del Bow Valle
 **Gente:** 🟢.
 
 ### Troll Falls
-3,5 km i/v · +60 m · ~1–1,5 h · fácil · 🚐 (Stoney/Kananaskis Village) · sin cortados · [Ruta](https://www.alltrails.com/trail/canada/alberta/troll-falls)
+3,5 km i/v · +60 m · ~1–1,5 h · fácil · 🚐 (Stoney/Kananaskis Village) · sin cortados · 🚗 ~40 min del camping · [Ruta](https://www.alltrails.com/trail/canada/alberta/troll-falls)
 
 Paseo fácil por bosque hasta una **cascada** acogedora; muy familiar. **Por qué hacerla:** corta,
 bonita y de las más fáciles de Kananaskis. **Gente:** 🟡. (No subáis por los senderos sueltos de
 alrededor de la cascada: hay riesgo de desprendimientos.)
 
 ### Grotto Canyon
-4 km i/v · +80 m · ~1,5 h · fácil · 🚐 (Hwy 1A) · sin cortados · [Ruta](https://www.alltrails.com/trail/canada/alberta/grotto-canyon-trail)
+4 km i/v · +80 m · ~1,5 h · fácil · 🚐 (Hwy 1A) · sin cortados · 🚗 ~30 min del camping · [Ruta](https://www.alltrails.com/trail/canada/alberta/grotto-canyon-trail)
 
 Se camina por el **lecho de grava** de un cañón hasta una cascada, una pequeña cueva y unas
 **pictografías** antiguas. **Por qué hacerla:** sensación de aventura sin peligro (vas por el fondo)

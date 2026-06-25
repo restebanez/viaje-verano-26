@@ -34,6 +34,8 @@
 
 # ---------- Banff (28–30 jul y 16–20 ago) ----------
 - id: camp_banff
+  tipo: base
+  base: banff
   nombre: Banff – Tunnel Mountain Village 2
   dia: "28–30 jul (A14) · 16–20 ago (A11)"
   semaforo: "🔵"
@@ -55,6 +57,9 @@
   video: "https://www.youtube.com/watch?v=_aa9Dkf9uTQ"
 
 - id: banff_gondola
+  tipo: caminata
+  base: banff
+  tiempo: "🚗 ~15 min del camping (a la góndola)"
   nombre: Banff Gondola (Sulphur Mountain)
   dia: "Banff"
   semaforo: "🟡"
@@ -90,6 +95,9 @@
   lng: -115.49554
 
 - id: johnson_lake
+  tipo: caminata
+  base: banff
+  tiempo: "🚗 ~25 min del camping"
   nombre: Johnson Lake
   dia: "Banff · 💦 baño"
   semaforo: "🟢"
@@ -100,6 +108,8 @@
 
 # ---------- Yoho (30 jul – 3 ago) ----------
 - id: camp_yoho
+  tipo: base
+  base: yoho
   nombre: Yoho – Kicking Horse Campground
   dia: "30 jul–3 ago · sitio 84"
   semaforo: "🔵"
@@ -116,6 +126,9 @@
   lng: -116.48915
 
 - id: emerald_lake
+  tipo: lugar
+  base: yoho
+  tiempo: "🚗 ~25 min del camping"
   nombre: Emerald Lake (canoas)
   dia: "Yoho"
   semaforo: "🟡"
@@ -164,6 +177,8 @@
 
 # ---------- Jasper (3–6 ago) ----------
 - id: camp_jasper
+  tipo: base
+  base: jasper
   nombre: Jasper – Whistlers Campground
   dia: "3–6 ago · sitio 50H"
   semaforo: "🔵"
@@ -241,6 +256,8 @@
 
 # ---------- Icefields Parkway (6–8 ago) ----------
 - id: camp_silverhorn
+  tipo: base
+  base: icefields
   nombre: Icefields – Silverhorn Creek Campground
   dia: "6–8 ago · sitio 39"
   semaforo: "🔵"
@@ -307,6 +324,8 @@
 
 # ---------- Lake Louise (8–12 ago) ----------
 - id: camp_lakelouise
+  tipo: base
+  base: lake-louise
   nombre: Lake Louise Campground
   dia: "8–12 ago · sitio 39"
   semaforo: "🔵"
@@ -315,6 +334,9 @@
   lng: -116.17831
 
 - id: lake_louise
+  tipo: lugar
+  base: lake-louise
+  tiempo: "🚌 ~10 min al Park & Ride + shuttle"
   nombre: Lake Louise
   dia: "8–12 ago"
   semaforo: "🔴"
@@ -329,6 +351,9 @@
   ruta: "https://www.alltrails.com/trail/canada/alberta/lake-louise-lakeshore"
 
 - id: moraine_lake
+  tipo: lugar
+  base: lake-louise
+  tiempo: "🚌 ~10 min al Park & Ride + shuttle (~20 min)"
   nombre: Moraine Lake
   dia: "8–12 ago"
   semaforo: "🔴"
@@ -344,6 +369,8 @@
 
 # ---------- Kootenay (12–16 ago) ----------
 - id: camp_kootenay
+  tipo: base
+  base: kootenay
   nombre: Kootenay – Redstreak Campground
   dia: "12–16 ago · sitio H3"
   semaforo: "🔵"
@@ -365,6 +392,9 @@
   video: "https://www.youtube.com/watch?v=yPLhn2P0Xjs"
 
 - id: marble_canyon
+  tipo: caminata
+  base: kootenay
+  tiempo: "🚗 ~1 h 30 del camping"
   nombre: Marble Canyon
   dia: "Kootenay"
   semaforo: "🟢"
@@ -380,6 +410,8 @@
 
 # ---------- Kananaskis / salida (20–22 ago) ----------
 - id: camp_bowvalley
+  tipo: base
+  base: kananaskis
   nombre: Bow Valley Campground (Kananaskis)
   dia: "20–22 ago · Loop D, D-02"
   semaforo: "🔵"
@@ -397,6 +429,9 @@
 
 # ---------- Caminatas (≤4 h) ----------
 - id: johnston_canyon
+  tipo: caminata
+  base: banff
+  tiempo: "🚗 ~40 min (o bus Roam 9)"
   nombre: Johnston Canyon (cascadas)
   dia: "Banff · caminata · madrugar"
   semaforo: "🟡"
@@ -406,6 +441,9 @@
   ruta: "https://www.alltrails.com/trail/canada/alberta/johnston-canyon-to-upper-falls"
 
 - id: wapta_falls
+  tipo: caminata
+  base: yoho
+  tiempo: "🚗 ~1 h del camping (pista de grava)"
   nombre: Wapta Falls (caminata)
   dia: "Yoho · caminata"
   semaforo: "🟢"
@@ -415,6 +453,9 @@
   ruta: "https://www.alltrails.com/trail/canada/british-columbia/wapta-falls"
 
 - id: valley_five_lakes
+  tipo: caminata
+  base: jasper
+  tiempo: "🚗 ~10 min del camping"
   nombre: Valley of the Five Lakes
   dia: "Jasper · caminata · 💦"
   semaforo: "🟢"
@@ -424,6 +465,9 @@
   ruta: "https://www.alltrails.com/trail/canada/alberta/valley-of-the-five-lakes-loop"
 
 - id: lake_annette
+  tipo: caminata
+  base: jasper
+  tiempo: "🚗 ~20 min del camping"
   nombre: Lake Annette (baño)
   dia: "Jasper · caminata · 💦"
   semaforo: "🟢"
@@ -433,6 +477,9 @@
   ruta: "https://www.alltrails.com/trail/canada/alberta/lake-annette-loop"
 
 - id: parker_ridge
+  tipo: caminata
+  base: icefields
+  tiempo: "🚗 ~1 h del camping"
   nombre: Parker Ridge (glaciar Saskatchewan)
   dia: "Icefields · caminata"
   semaforo: "🟢"
@@ -450,6 +497,9 @@
   lng: -116.2350
 
 - id: lake_agnes
+  tipo: caminata
+  base: lake-louise
+  tiempo: "🚌 ~10 min al Park & Ride + shuttle"
   nombre: Lake Agnes Tea House
   dia: "Lake Louise · caminata"
   semaforo: "🟢"
@@ -459,6 +509,9 @@
   ruta: "https://www.alltrails.com/trail/canada/alberta/lake-agnes-trail"
 
 - id: troll_falls
+  tipo: caminata
+  base: kananaskis
+  tiempo: "🚗 ~40 min del camping"
   nombre: Troll Falls (caminata)
   dia: "Kananaskis · caminata"
   semaforo: "🟢"
@@ -468,6 +521,9 @@
   ruta: "https://www.alltrails.com/trail/canada/alberta/troll-falls"
 
 - id: wilcox_pass
+  tipo: caminata
+  base: icefields
+  tiempo: "🚗 ~1 h del camping"
   nombre: Wilcox Pass (vista glaciar Athabasca)
   dia: "Icefields · caminata"
   semaforo: "🟢"
@@ -477,6 +533,9 @@
   ruta: "https://www.alltrails.com/trail/canada/alberta/wilcox-viewpoint-via-wilcox-pass"
 
 - id: juniper_loop
+  tipo: caminata
+  base: kootenay
+  tiempo: "🚗 ~5 min del camping"
   nombre: Juniper Loop (Sinclair Canyon)
   dia: "Kootenay · circular"
   semaforo: "🟢"
@@ -486,6 +545,9 @@
   ruta: "https://www.alltrails.com/trail/canada/british-columbia/juniper-loop"
 
 - id: tunnel_mountain
+  tipo: caminata
+  base: banff
+  tiempo: "🚶 sale del camping (~8 min al parking)"
   nombre: Tunnel Mountain Summit
   dia: "Banff · andando desde el camping"
   semaforo: "🟢"
@@ -495,6 +557,9 @@
   ruta: "https://www.alltrails.com/trail/canada/alberta/tunnel-mountain-summit"
 
 - id: sundance_canyon
+  tipo: caminata
+  base: banff
+  tiempo: "🚗 ~15 min del camping"
   nombre: Sundance Canyon
   dia: "Banff · caminata"
   semaforo: "🟢"
@@ -504,6 +569,9 @@
   ruta: "https://www.alltrails.com/trail/canada/alberta/sundance-canyon-trail--2"
 
 - id: grotto_canyon
+  tipo: caminata
+  base: kananaskis
+  tiempo: "🚗 ~30 min del camping"
   nombre: Grotto Canyon (pictografías)
   dia: "Canmore · caminata"
   semaforo: "🟢"
@@ -513,6 +581,9 @@
   ruta: "https://www.alltrails.com/trail/canada/alberta/grotto-canyon-trail"
 
 - id: many_springs
+  tipo: caminata
+  base: kananaskis
+  tiempo: "🚶 junto al camping (~1 min)"
   nombre: Many Springs (Bow Valley PP, circular)
   dia: "Bow Valley · junto al camping"
   semaforo: "🟢"
@@ -521,6 +592,9 @@
   lng: -115.0560
 
 - id: sulphur_mountain
+  tipo: caminata
+  base: banff
+  tiempo: "🚗 ~15 min del camping (a la góndola)"
   nombre: Sulphur Mountain Trail (a pie, reto)
   dia: "Banff · reto opcional (>4 h)"
   semaforo: "🟢"
@@ -530,6 +604,9 @@
   ruta: "https://www.alltrails.com/trail/canada/alberta/sulphur-mountain-trail"
 
 - id: c_level
+  tipo: caminata
+  base: banff
+  tiempo: "🚗 ~15 min del camping"
   nombre: C-Level Cirque
   dia: "Banff · caminata"
   semaforo: "🟢"
@@ -539,6 +616,9 @@
   ruta: "https://www.alltrails.com/trail/canada/alberta/clevel-cirque"
 
 - id: sherbrooke_paget
+  tipo: caminata
+  base: yoho
+  tiempo: "🚗 ~10 min del camping"
   nombre: Sherbrooke Lake / Paget Lookout
   dia: "Yoho · caminata"
   semaforo: "🟢"
@@ -548,6 +628,9 @@
   ruta: "https://www.alltrails.com/trail/canada/british-columbia/paget-lookout-and-sherbrooke-lake"
 
 - id: hamilton_lake
+  tipo: caminata
+  base: yoho
+  tiempo: "🚗 ~25 min del camping (desde Emerald)"
   nombre: Hamilton Lake (reto)
   dia: "Yoho · reto opcional"
   semaforo: "🟢"
@@ -557,6 +640,9 @@
   ruta: "https://www.alltrails.com/trail/canada/british-columbia/hamilton-lake-trail"
 
 - id: sulphur_skyline
+  tipo: caminata
+  base: jasper
+  tiempo: "🚗 ~1 h 15 del camping (Miette)"
   nombre: Sulphur Skyline (Miette)
   dia: "Jasper · caminata"
   semaforo: "🟢"
@@ -566,6 +652,9 @@
   ruta: "https://www.alltrails.com/trail/canada/alberta/sulphur-skyline-trail"
 
 - id: plain_six
+  tipo: caminata
+  base: lake-louise
+  tiempo: "🚌 ~10 min al Park & Ride + shuttle"
   nombre: Plain of Six Glaciers
   dia: "Lake Louise · gran día"
   semaforo: "🟢"
@@ -575,6 +664,9 @@
   ruta: "https://www.alltrails.com/trail/canada/alberta/plain-of-six-glaciers-trail"
 
 - id: larch_valley
+  tipo: caminata
+  base: lake-louise
+  tiempo: "🚌 ~10 min al Park & Ride + shuttle a Moraine"
   nombre: Larch Valley (desde Moraine)
   dia: "Lake Louise · shuttle a Moraine"
   semaforo: "🟢"
@@ -584,6 +676,9 @@
   ruta: "https://www.alltrails.com/trail/canada/alberta/larch-valley--3"
 
 - id: stanley_glacier
+  tipo: caminata
+  base: kootenay
+  tiempo: "🚗 ~1 h 35 del camping"
   nombre: Stanley Glacier
   dia: "Kootenay · caminata"
   semaforo: "🟢"

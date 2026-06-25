@@ -6,6 +6,8 @@
 # Refrescar fotos: python3 scripts/fetch-fotos.py
 
 - id: cangas
+  tipo: base
+  base: ast
   nombre: Cangas de Onís (base)
   dia: "Base"
   semaforo: "🟡"
@@ -19,6 +21,9 @@
   video: "https://www.youtube.com/watch?v=iHpAzEBm7ro"
 
 - id: aballe
+  tipo: playa
+  base: ast
+  tiempo: "🚗 ~5 min de Cangas"
   nombre: Playa fluvial de Aballe
   dia: "Lun 20"
   semaforo: "🟢"
@@ -27,6 +32,9 @@
   lng: -5.14350
 
 - id: casano
+  tipo: caminata
+  base: ast
+  tiempo: "🚗 ~35 min de Cangas"
   nombre: Senda del río Casaño (La Molina)
   dia: "Mar 21"
   semaforo: "🟢"
@@ -53,6 +61,9 @@
   licencia: "Dominio público"
 
 - id: cuevas
+  tipo: playa
+  base: ast
+  tiempo: "🚗 ~35 min de Cangas"
   nombre: Playa de Cuevas del Mar
   dia: "Mié 22"
   semaforo: "🔴"
@@ -67,6 +78,9 @@
   hero: true
 
 - id: sanantolin
+  tipo: playa
+  base: ast
+  tiempo: "🚗 ~35 min de Cangas"
   nombre: Playa de San Antolín (alternativa tranquila)
   dia: "Mié 22 (alt.)"
   semaforo: "🟢"
@@ -80,6 +94,9 @@
   video: "https://www.youtube.com/watch?v=zkoKhKqSG6w"
 
 - id: vega
+  tipo: playa
+  base: ast
+  tiempo: "🚗 ~40 min de Cangas"
   nombre: Playa de Vega (alternativa tranquila)
   dia: "Mié 22 (alt.)"
   semaforo: "🟡"
@@ -92,6 +109,9 @@
   licencia: "CC BY 3.0"
 
 - id: olla
+  tipo: caminata
+  base: ast
+  tiempo: "🚗 ~10 min de Cangas"
   nombre: Olla de San Vicente (río Dobra)
   dia: "Jue 23"
   semaforo: "🔴"
@@ -119,6 +139,9 @@
   video: "https://www.youtube.com/watch?v=6nAB2aMePOU"
 
 - id: alba
+  tipo: caminata
+  base: ast
+  tiempo: "🚗 ~1 h 20 de Cangas"
   nombre: Ruta del Alba (Soto de Agues)
   dia: "Intercambio"
   semaforo: "🟡"
@@ -146,6 +169,9 @@
   video: "https://www.youtube.com/watch?v=DW-GnYzZ_yc"
 
 - id: griega
+  tipo: playa
+  base: ast
+  tiempo: "🚗 ~40 min de Cangas"
   nombre: Playa de La Griega
   dia: "Vie 24"
   semaforo: "🟡"

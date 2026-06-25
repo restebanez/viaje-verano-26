@@ -33,8 +33,8 @@ const PARTS = [
     fechas: '20–24 julio 2026', desc: 'Cangas de Onís: rutas con baño natural, playa y mapa.',
     legend: LEG_ASTURIAS, subLabel: '🏖️🥾 Planes',
     dias: [
-      { slug: 'playas-asturias', titulo: '🏖️ Playas', content: 'playas-asturias.md' },
-      { slug: 'caminatas-asturias', titulo: '🥾 Caminatas', content: 'caminatas-asturias.md' },
+      { slug: 'playas-asturias', titulo: '🏖️ Playas', content: 'playas-asturias.md', base: 'ast', tipos: ['base', 'playa'] },
+      { slug: 'caminatas-asturias', titulo: '🥾 Caminatas', content: 'caminatas-asturias.md', base: 'ast', tipos: ['base', 'caminata'] },
     ],
   },
   {
@@ -42,13 +42,13 @@ const PARTS = [
     fechas: '26 jul – 23 ago 2026 · autocaravana', desc: 'Rockies en autocaravana: Banff, Yoho, Jasper, Lake Louise, Kootenay.',
     legend: LEG_CANADA, subLabel: '🥾 Caminatas por base',
     dias: [
-      { slug: 'caminatas-banff', titulo: 'Banff', content: 'caminatas-banff.md' },
-      { slug: 'caminatas-yoho', titulo: 'Yoho', content: 'caminatas-yoho.md' },
-      { slug: 'caminatas-jasper', titulo: 'Jasper', content: 'caminatas-jasper.md' },
-      { slug: 'caminatas-icefields', titulo: 'Icefields', content: 'caminatas-icefields.md' },
-      { slug: 'caminatas-lake-louise', titulo: 'Lake Louise', content: 'caminatas-lake-louise.md' },
-      { slug: 'caminatas-kootenay', titulo: 'Kootenay', content: 'caminatas-kootenay.md' },
-      { slug: 'caminatas-kananaskis', titulo: 'Kananaskis', content: 'caminatas-kananaskis.md' },
+      { slug: 'caminatas-banff', titulo: 'Banff', content: 'caminatas-banff.md', base: 'banff' },
+      { slug: 'caminatas-yoho', titulo: 'Yoho', content: 'caminatas-yoho.md', base: 'yoho' },
+      { slug: 'caminatas-jasper', titulo: 'Jasper', content: 'caminatas-jasper.md', base: 'jasper' },
+      { slug: 'caminatas-icefields', titulo: 'Icefields', content: 'caminatas-icefields.md', base: 'icefields' },
+      { slug: 'caminatas-lake-louise', titulo: 'Lake Louise', content: 'caminatas-lake-louise.md', base: 'lake-louise' },
+      { slug: 'caminatas-kootenay', titulo: 'Kootenay', content: 'caminatas-kootenay.md', base: 'kootenay' },
+      { slug: 'caminatas-kananaskis', titulo: 'Kananaskis', content: 'caminatas-kananaskis.md', base: 'kananaskis' },
     ],
   },
 ];
@@ -114,7 +114,7 @@ const LUGARES = ${safeJson(mapPoints)};
     if (p.wikiloc) links.push('<a href="' + p.wikiloc + '" target="_blank" rel="noopener">Wikiloc</a>');
     if (p.ruta) links.push('<a href="' + p.ruta + '" target="_blank" rel="noopener">Ruta</a>');
     if (p.video) links.push('<a href="' + p.video + '" target="_blank" rel="noopener">Vídeo</a>');
-    m.bindPopup('<b>' + p.nombre + '</b>' + (p.dia ? '<br>' + p.dia : '') + '<br>' + links.join(' · '));
+    m.bindPopup('<b>' + p.nombre + '</b>' + (p.dia ? '<br>' + p.dia : '') + (p.tiempo ? '<br>' + p.tiempo : '') + '<br>' + links.join(' · '));
     m.bindTooltip(p.nombre);
     grupo.push([p.lat, p.lng]);
   }
@@ -177,6 +177,7 @@ function mapPointsDe(lug) {
   return lug.filter((l) => typeof l.lat === 'number' && typeof l.lng === 'number').map((l) => ({
     nombre: l.nombre, dia: l.dia || '', color: colorDe(l.semaforo), lat: l.lat, lng: l.lng,
     maps: mapsUrl(l.maps_query || l.nombre), wikiloc: l.wikiloc || null, ruta: l.ruta || null, video: l.video || null,
+    tiempo: l.tiempo || null,
   }));
 }
 
@@ -190,16 +191,19 @@ function renderPart(part) {
     : '';
   const out = pageShell({
     titulo: titulo || part.nav, nav: navHtml(part), hero: (heroDe(lug) || {}).foto,
-    body: { html: diasIndex + html, fechas: part.fechas }, mapPoints: mapPointsDe(lug), legend: part.legend,
+    body: { html: diasIndex + html, fechas: part.fechas }, mapPoints: mapPointsDe(lug.filter((l) => l.tipo !== 'caminata')), legend: part.legend,
   });
   writeFileSync(join(dist, part.output), out);
-  // Páginas por día (futuro)
+  // Páginas por destino: mapa filtrado por base (camping + sus caminatas/playas)
   for (const d of part.dias || []) {
     const { titulo: dt, html: dh } = renderMd(d.content, byId);
+    const dpts = d.base
+      ? mapPointsDe(lug.filter((l) => l.base === d.base && (!d.tipos || d.tipos.includes(l.tipo))))
+      : (d.mapAll ? mapPointsDe(lug) : null);
     const dout = pageShell({
       titulo: dt || d.titulo, nav: navHtml(part), hero: null,
       body: { html: `<p class="volver"><a href="./${esc(part.output)}">◀ ${esc(part.nav)}</a></p>` + dh, fechas: '' },
-      mapPoints: d.mapAll ? mapPointsDe(lug) : null, legend: part.legend,
+      mapPoints: dpts, legend: part.legend,
     });
     writeFileSync(join(dist, `${d.slug}.html`), dout);
   }
