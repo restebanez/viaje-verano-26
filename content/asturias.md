@@ -58,6 +58,8 @@ Día de coche; no metáis ruta de montaña.
 
 ## Martes 21 — Senda del río Casaño (La Molina) + Arenas de Cabrales · 🟢
 
+→ 🥾 **[Todas las caminatas de Asturias](./caminatas-asturias.html)**
+
 {{media:casano}}
 
 El día **más equilibrado** y, además, **el más tranquilo de multitudes**: es una
@@ -89,6 +91,8 @@ llano, pozas y sombra.
 ---
 
 ## Miércoles 22 — Día de playa · (elige según el día)
+
+→ 🏖️ **[Todas las playas de Asturias](./playas-asturias.html)**
 
 Aquí tienes dos perfiles. Elige por la mañana según ganas y según la marea.
 
@@ -137,6 +141,8 @@ Aquí tienes dos perfiles. Elige por la mañana según ganas y según la marea.
 ---
 
 ## Jueves 23 — Olla de San Vicente (río Dobra) + opcional Santuario de Covadonga
+
+→ 🥾 **[Todas las caminatas de Asturias](./caminatas-asturias.html)**
 
 ### Olla de San Vicente · 🔴
 
@@ -193,6 +199,8 @@ Aquí tienes dos perfiles. Elige por la mañana según ganas y según la marea.
 ---
 
 ## Viernes 24 — Salida: mañana costera ligera + vuelo 15:45 · 🟡
+
+→ 🏖️ **[Todas las playas de Asturias](./playas-asturias.html)**
 
 {{media:lastres}}
 

@@ -31,12 +31,16 @@ const PARTS = [
   {
     output: 'asturias.html', nav: 'Asturias', content: 'asturias.md', data: 'lugares-asturias.yml',
     fechas: '20–24 julio 2026', desc: 'Cangas de Onís: rutas con baño natural, playa y mapa.',
-    legend: LEG_ASTURIAS, dias: [],
+    legend: LEG_ASTURIAS, subLabel: '🏖️🥾 Planes',
+    dias: [
+      { slug: 'playas-asturias', titulo: '🏖️ Playas', content: 'playas-asturias.md' },
+      { slug: 'caminatas-asturias', titulo: '🥾 Caminatas', content: 'caminatas-asturias.md' },
+    ],
   },
   {
     output: 'canada.html', nav: 'Canadá', content: 'canada.md', data: 'lugares-canada.yml',
     fechas: '26 jul – 23 ago 2026 · autocaravana', desc: 'Rockies en autocaravana: Banff, Yoho, Jasper, Lake Louise, Kootenay.',
-    legend: LEG_CANADA,
+    legend: LEG_CANADA, subLabel: '🥾 Caminatas por base',
     dias: [
       { slug: 'caminatas-banff', titulo: 'Banff', content: 'caminatas-banff.md' },
       { slug: 'caminatas-yoho', titulo: 'Yoho', content: 'caminatas-yoho.md' },
@@ -163,7 +167,7 @@ function renderMd(file, byId) {
   src = src.replace(/\{\{\s*media:([a-z0-9_-]+)\s*\}\}/gi, (_, id) => {
     const l = byId.get(id.toLowerCase());
     if (!l) { console.warn('  ⚠ {{media:%s}} sin lugar', id); return ''; }
-    return mediaCard(l);
+    return `\n\n${mediaCard(l)}\n\n`;
   });
   const html = md.render(src).replace(/<(h[23])>([\s\S]*?)<\/\1>/g, (_, t, inner) => `<${t} id="${slugify(inner)}">${inner}</${t}>`);
   return { titulo, html };
@@ -182,7 +186,7 @@ function renderPart(part) {
   const { titulo, html } = renderMd(part.content, byId);
   // Índice de días (solo si la parte tiene `dias` definidos)
   const diasIndex = part.dias && part.dias.length
-    ? `<p class="sub-links">🥾 Caminatas por base: ${part.dias.map((d) => `<a href="./${esc(d.slug)}.html">${esc(d.titulo)}</a>`).join(' · ')}</p>`
+    ? `<p class="sub-links">${esc(part.subLabel || 'Páginas')}: ${part.dias.map((d) => `<a href="./${esc(d.slug)}.html">${esc(d.titulo)}</a>`).join(' · ')}</p>`
     : '';
   const out = pageShell({
     titulo: titulo || part.nav, nav: navHtml(part), hero: (heroDe(lug) || {}).foto,
