@@ -12,11 +12,12 @@ fuente (MD + YAML) y se regenera el HTML.** No es una app.
   - **Canadá** → `canada.html` (`content/canada.md` + `data/lugares-canada.yml`)
 - Cada parte tiene mapa, leyenda y resumen. Navegación: portada ↔ partes.
 
-**Páginas por día (preparado, aún vacío):** cada parte tiene `dias: []` en `PARTS`. Para
-añadir la página de caminatas/playa de un día: crea `content/<algo>.md` y añade a `dias` algo
-como `{ slug:'jasper', titulo:'Jasper (3–6 ago)', content:'jasper.md', mapAll:true }`. Genera
-`canada-jasper.html` y un índice "Días / etapas" en la parte (reutiliza el YAML de la parte
-para `{{media:id}}`).
+**Páginas por destino:** cada parte tiene un array `dias` en `PARTS`; cada entrada genera
+`<slug>.html`. Canadá tiene **una página de caminatas por base**, p. ej.
+`{ slug:'caminatas-banff', titulo:'Banff', content:'caminatas-banff.md' }` → `caminatas-banff.html`,
+enlazada desde el resumen de la parte ("🥾 Caminatas por base") y desde cada etapa del
+itinerario (`content/canada.md`). Opcional `mapAll:true` para incluir el mapa de la parte;
+reutiliza el YAML de la parte para `{{media:id}}`. Los títulos `##` llevan id automático (anclas).
 
 Para añadir una parte nueva: crea el `.md` y el `.yml` y añade una entrada a `PARTS`.
 

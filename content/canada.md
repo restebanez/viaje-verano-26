@@ -57,7 +57,7 @@ Lake Louise y Kootenay**, más Kananaskis al final.
 
 ## 28–30 jul · Banff — Tunnel Mountain Village 2 · 🔵
 **Reserva INPC25-15799267B2 · sitio A14 · 2 noches**
-→ 🥾 **[Todas las caminatas desde Banff](./canada-caminatas.html#banff)**
+→ 🥾 **[Todas las caminatas desde Banff](./caminatas-banff.html)**
 
 {{media:minnewanka}}
 
@@ -80,7 +80,7 @@ Primer contacto con las Rocosas, muy cerca del pueblo de Banff.
 
 ## 30 jul – 3 ago · Yoho — Kicking Horse · 🔵
 **Reserva INPC25-12281160B1 · sitio 84 · 4 noches**
-→ 🥾 **[Todas las caminatas desde Yoho](./canada-caminatas.html#yoho)**
+→ 🥾 **[Todas las caminatas desde Yoho](./caminatas-yoho.html)**
 
 {{media:emerald_lake}}
 
@@ -105,7 +105,7 @@ Cruzáis a la Columbia Británica (Yoho). Base en **Field**.
 
 ## 3–6 ago · Jasper — Whistlers · 🔵
 **Reserva INPC25-12585516B1 · sitio 50H · 3 noches**
-→ 🥾 **[Todas las caminatas desde Jasper](./canada-caminatas.html#jasper)**
+→ 🥾 **[Todas las caminatas desde Jasper](./caminatas-jasper.html)**
 
 {{media:maligne_lake}}
 
@@ -133,7 +133,7 @@ El parque más grande y salvaje. Subís por la Icefields Parkway hasta Jasper.
 
 ## 6–8 ago · Icefields Parkway — Silverhorn Creek · 🔵
 **Reserva INPC25-15813668B1 · sitio 39 · 2 noches**
-→ 🥾 **[Todas las caminatas de la Icefields Parkway](./canada-caminatas.html#icefields-parkway)**
+→ 🥾 **[Todas las caminatas de la Icefields Parkway](./caminatas-icefields.html)**
 
 {{media:columbia_icefield}}
 
@@ -159,7 +159,7 @@ Louise. (De camino/alrededor del campamento.)
 
 ## 8–12 ago · Lake Louise · 🔵
 **Reserva INPC25-15799267B1 · sitio 39 · 4 noches**
-→ 🥾 **[Todas las caminatas desde Lake Louise](./canada-caminatas.html#lake-louise)**
+→ 🥾 **[Todas las caminatas desde Lake Louise](./caminatas-lake-louise.html)**
 
 {{media:lake_louise}}
 
@@ -183,7 +183,7 @@ Louise. (De camino/alrededor del campamento.)
 
 ## 12–16 ago · Kootenay — Redstreak · 🔵
 **Reserva INPC25-12281160B2 · sitio H3 · 4 noches**
-→ 🥾 **[Todas las caminatas desde Kootenay](./canada-caminatas.html#kootenay)**
+→ 🥾 **[Todas las caminatas desde Kootenay](./caminatas-kootenay.html)**
 
 {{media:radium}}
 
@@ -203,7 +203,7 @@ De vuelta a BC, parque más tranquilo y con termas.
 
 ## 16–20 ago · Banff — Tunnel Mountain Village 2 · 🔵
 **Reserva INPC25-15799267B3 · sitio A11 · 4 noches**
-→ 🥾 **[Todas las caminatas desde Banff](./canada-caminatas.html#banff)**
+→ 🥾 **[Todas las caminatas desde Banff](./caminatas-banff.html)**
 
 {{media:banff_gondola}}
 
@@ -219,7 +219,7 @@ Segunda tanda en Banff para rematar lo que falte: **Banff Gondola**, **Johnston 
 
 ## 20–22 ago · Bow Valley (Kananaskis) · 🔵
 **Reserva 2-1456249 (Alberta Parks) · Loop D, sitio D-02 · 2 noches**
-→ 🥾 **[Todas las caminatas desde Kananaskis](./canada-caminatas.html#kananaskis)**
+→ 🥾 **[Todas las caminatas desde Kananaskis](./caminatas-kananaskis.html)**
 
 Última parada, ya cerca de Calgary (30 km al este de **Canmore**, salida 114 de la Hwy 1).
 Días tranquilos en Kananaskis y compras/paseo por **Canmore** antes de devolver la

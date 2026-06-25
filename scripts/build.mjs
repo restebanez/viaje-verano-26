@@ -37,7 +37,15 @@ const PARTS = [
     output: 'canada.html', nav: 'Canadá', content: 'canada.md', data: 'lugares-canada.yml',
     fechas: '26 jul – 23 ago 2026 · autocaravana', desc: 'Rockies en autocaravana: Banff, Yoho, Jasper, Lake Louise, Kootenay.',
     legend: LEG_CANADA,
-    dias: [{ slug: 'caminatas', titulo: '🥾 Caminatas por base', content: 'canada-caminatas.md', mapAll: true }],
+    dias: [
+      { slug: 'caminatas-banff', titulo: 'Banff', content: 'caminatas-banff.md' },
+      { slug: 'caminatas-yoho', titulo: 'Yoho', content: 'caminatas-yoho.md' },
+      { slug: 'caminatas-jasper', titulo: 'Jasper', content: 'caminatas-jasper.md' },
+      { slug: 'caminatas-icefields', titulo: 'Icefields', content: 'caminatas-icefields.md' },
+      { slug: 'caminatas-lake-louise', titulo: 'Lake Louise', content: 'caminatas-lake-louise.md' },
+      { slug: 'caminatas-kootenay', titulo: 'Kootenay', content: 'caminatas-kootenay.md' },
+      { slug: 'caminatas-kananaskis', titulo: 'Kananaskis', content: 'caminatas-kananaskis.md' },
+    ],
   },
 ];
 
@@ -174,7 +182,7 @@ function renderPart(part) {
   const { titulo, html } = renderMd(part.content, byId);
   // Índice de días (solo si la parte tiene `dias` definidos)
   const diasIndex = part.dias && part.dias.length
-    ? `<p class="sub-links">${part.dias.map((d) => `<a href="./${esc(part.output.replace('.html', ''))}-${esc(d.slug)}.html">${esc(d.titulo)}</a>`).join(' · ')}</p>`
+    ? `<p class="sub-links">🥾 Caminatas por base: ${part.dias.map((d) => `<a href="./${esc(d.slug)}.html">${esc(d.titulo)}</a>`).join(' · ')}</p>`
     : '';
   const out = pageShell({
     titulo: titulo || part.nav, nav: navHtml(part), hero: (heroDe(lug) || {}).foto,
@@ -189,7 +197,7 @@ function renderPart(part) {
       body: { html: `<p class="volver"><a href="./${esc(part.output)}">◀ ${esc(part.nav)}</a></p>` + dh, fechas: '' },
       mapPoints: d.mapAll ? mapPointsDe(lug) : null, legend: part.legend,
     });
-    writeFileSync(join(dist, `${part.output.replace('.html', '')}-${d.slug}.html`), dout);
+    writeFileSync(join(dist, `${d.slug}.html`), dout);
   }
   return mapPointsDe(lug).length;
 }
