@@ -192,18 +192,17 @@
   lng: -118.12508
   video: "https://www.youtube.com/watch?v=3FkyBvuBrxU"
 
-- id: maligne_canyon
-  nombre: Maligne Canyon
-  dia: "Jasper"
+- id: maligne_lake
+  nombre: Maligne Lake (crucero a Spirit Island)
+  dia: "Jasper · 3–6 ago"
   semaforo: "🟡"
-  maps_query: "Maligne Canyon, Jasper"
-  lat: 52.91978
-  lng: -118.01016
-  foto: maligne_canyon.jpg
-  credito: "chensiyuan"
-  credito_url: "https://commons.wikimedia.org/wiki/File:Maligne_canyon_z.JPG"
+  maps_query: "Maligne Lake, Jasper"
+  lat: 52.7235
+  lng: -117.6433
+  foto: maligne_lake.jpg
+  credito: "Serge Cousineau"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Spirit_Island_...Maligne_lake.jpg"
   licencia: "CC BY-SA 4.0"
-  video: "https://www.youtube.com/watch?v=X5okAv5qtpo"
 
 - id: pyramid_lake
   nombre: Pyramid Lake
@@ -230,17 +229,13 @@
   credito_url: "https://commons.wikimedia.org/wiki/File:Source_of_the_spring_2,_Miette_Hot_Springs,_Jasper_AB.jpg"
   licencia: "CC BY-SA 4.0"
 
-- id: edith_cavell
-  nombre: Mount Edith Cavell (Angel Glacier)
-  dia: "Jasper / Icefields"
+- id: quarry_lake
+  nombre: Quarry Lake (baño, Canmore)
+  dia: "Canmore · 💦 baño"
   semaforo: "🟢"
-  maps_query: "Mount Edith Cavell, Jasper"
-  lat: 52.75671
-  lng: -118.04375
-  foto: edith_cavell.jpg
-  credito: "Khoshhat"
-  credito_url: "https://commons.wikimedia.org/wiki/File:Mount_Edith_Cavell_Summit.jpg"
-  licencia: "CC BY-SA 4.0"
+  maps_query: "Quarry Lake, Canmore"
+  lat: 51.07481
+  lng: -115.37292
 
 # ---------- Icefields Parkway (6–8 ago) ----------
 - id: camp_silverhorn
@@ -256,8 +251,8 @@
   dia: "Icefields"
   semaforo: "🟡"
   maps_query: "Columbia Icefield Discovery Centre"
-  lat: 52.18842
-  lng: -117.25833
+  lat: 52.21967
+  lng: -117.22822
   foto: columbia_icefield.jpg
   credito: "Ethan Sahagun"
   credito_url: "https://commons.wikimedia.org/wiki/File:Mount_Andromeda_from_the_Athabasca_Glacier.jpg"
@@ -321,9 +316,9 @@
   nombre: Lake Louise
   dia: "8–12 ago"
   semaforo: "🔴"
-  maps_query: "Lake Louise, Alberta"
-  lat: 51.42497
-  lng: -116.17754
+  maps_query: "Lake Louise lakeshore, Banff National Park"
+  lat: 51.4176
+  lng: -116.2178
   foto: lake_louise.jpg
   credito: "Chensiyuan"
   credito_url: "https://commons.wikimedia.org/wiki/File:1_lake_louise_pano_2019.jpg"
@@ -361,9 +356,9 @@
   lat: 50.62007
   lng: -116.07606
   foto: radium.jpg
-  credito: "Byron Harmon (histórica)"
-  credito_url: "https://commons.wikimedia.org/wiki/File:Radium_Hot_Springs_Pool_House.jpg"
-  licencia: "Dominio público"
+  credito: "Marek Ślusarczyk (Tupungato)"
+  credito_url: "https://commons.wikimedia.org/wiki/File:20_Sinclair_Canyon_in_Radium_Hot_Springs_with_Kootenay_Highway_(British_Columbia_Highway_93)_-_Kootenay_National_Park_nature.jpg"
+  licencia: "CC BY 3.0"
   video: "https://www.youtube.com/watch?v=yPLhn2P0Xjs"
 
 - id: marble_canyon
@@ -400,8 +395,8 @@
 # ---------- Caminatas (≤4 h) ----------
 - id: johnston_canyon
   nombre: Johnston Canyon (cascadas)
-  dia: "Banff · caminata"
-  semaforo: "🟢"
+  dia: "Banff · caminata · madrugar"
+  semaforo: "🟡"
   maps_query: "Johnston Canyon, Banff"
   lat: 51.2456
   lng: -115.8402
@@ -456,15 +451,15 @@
   dia: "Lake Louise · caminata"
   semaforo: "🟢"
   maps_query: "Lake Agnes Tea House, Lake Louise"
-  lat: 51.4248
-  lng: -116.2335
+  lat: 51.4264
+  lng: -116.2533
   ruta: "https://www.alltrails.com/trail/canada/alberta/lake-agnes-trail"
 
-- id: grassi_lakes
-  nombre: Grassi Lakes (caminata)
-  dia: "Canmore · caminata"
+- id: troll_falls
+  nombre: Troll Falls (caminata)
+  dia: "Kananaskis · caminata"
   semaforo: "🟢"
-  maps_query: "Grassi Lakes Trailhead, Canmore"
-  lat: 51.08132
-  lng: -115.39505
-  ruta: "https://www.alltrails.com/trail/canada/alberta/grassi-lakes-interpretive-loop"
+  maps_query: "Troll Falls Trailhead, Kananaskis"
+  lat: 50.94829
+  lng: -115.14729
+  ruta: "https://www.alltrails.com/trail/canada/alberta/troll-falls"

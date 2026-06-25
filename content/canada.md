@@ -4,9 +4,10 @@ Familia (2 adultos + 1 niño) · ~4 semanas en autocaravana **CanaDream** · gra
 por los Parques Nacionales de las Rocosas: **Banff, Yoho, Jasper, Icefields Parkway,
 Lake Louise y Kootenay**, más Kananaskis al final.
 
-> **Antes de salir:** necesitáis el **Parks Canada Discovery Pass** (pase anual de
-> parques, válido para Banff/Jasper/Yoho/Kootenay) — se compra online o en la entrada.
-> Las reservas de camping (abajo) son aparte. Check-in 14:00 · check-out 11:00.
+> **Antes de salir:** en 2026 la **entrada a los parques nacionales es GRATIS** del 19 jun
+> al 7 sep (*Canada Strong Pass*), así que **no hace falta el Discovery Pass**. Lo que **sí**
+> se paga: camping, parking, termas, teleféricos y tours (p. ej. el Ice Explorer). Las
+> reservas de camping (abajo) van aparte. Check-in 14:00 · check-out 11:00.
 
 ---
 
@@ -77,17 +78,19 @@ Cruzáis a la Columbia Británica (Yoho). Base en **Field**.
 ## 3–6 ago · Jasper — Whistlers · 🔵
 **Reserva INPC25-12585516B1 · sitio 50H · 3 noches**
 
-{{media:maligne_canyon}}
+{{media:maligne_lake}}
 
 El parque más grande y salvaje. Subís por la Icefields Parkway hasta Jasper.
 
-- **Maligne Canyon**: cañón profundo con cascadas y puentes — paseo precioso y fácil.
+- **Maligne Lake**: el lago glaciar más largo de las Rocosas; **crucero a Spirit Island**
+  (~1 h 30) por la Maligne Road, que **reabrió en 2026**. ⚠️ **Maligne Canyon sigue cerrado**
+  toda la temporada 2026 (secuelas del incendio de 2024).
 - **Pyramid Lake**: bonito y con poca gente; isla con pasarela.
 - **Jasper SkyTram** (Whistlers): teleférico al pico, las mejores vistas del valle. ([vídeo](https://www.youtube.com/watch?v=3FkyBvuBrxU))
 - **Miette Hot Springs** (~60 km): las termas más calientes de las Rocosas; cerca, paseo
   corto a las ruinas del antiguo balneario.
 - Buen sitio para **cenar de restaurante** (el pueblo de Jasper tiene oferta).
-- 🥾 **Caminatas (≤4 h):** [Valley of the Five Lakes](https://www.alltrails.com/trail/canada/alberta/valley-of-the-five-lakes-loop) — 5,5 km, ~2 h, lagos turquesa con **💦 zonas de baño**. · [Lake Annette Loop](https://www.alltrails.com/trail/canada/alberta/lake-annette-loop) — 2,7 km llanos (cochecito ok), de los lagos **más cálidos para bañarse 💦**.
+- 🥾 **Caminatas (≤4 h):** [Valley of the Five Lakes](https://www.alltrails.com/trail/canada/alberta/valley-of-the-five-lakes-loop) — 5,5 km, ~2 h, lagos turquesa con **💦 zonas de baño** (algún tramo del bucle puede estar desviado por el incendio: seguid la señalización). · [Lake Annette Loop](https://www.alltrails.com/trail/canada/alberta/lake-annette-loop) — 2,7 km llanos (cochecito ok), de los lagos **más cálidos para bañarse 💦**.
 
 {{media:pyramid_lake}}
 
@@ -108,16 +111,14 @@ Louise. (De camino/alrededor del campamento.)
 - **Columbia Icefield / Glaciar Athabasca**: subir al glaciar en el **Ice Explorer** (vehículo
   todoterreno sobre hielo) + pasarela **Skywalk**.
 - **Cascadas en cadena**: **Athabasca Falls** (potente), **Sunwapta Falls** y **Tangle Creek Falls**.
-- **Mount Edith Cavell** y el **Angel Glacier** (carretera estrecha de montaña; mirador y
-  sendero a la laguna glaciar).
+- ⚠️ **Mount Edith Cavell / Angel Glacier: cerrado en 2026** (incendio; además Cavell Road
+  limita a 25 ft y vuestra AC es de hasta 27 ft, así que no entraría).
 - **Peyto Lake**: el mirador del lago con forma de lobo, de los más fotografiados.
 - 🥾 **Caminata (≤4 h):** [Parker Ridge](https://www.alltrails.com/trail/canada/alberta/parker-ridge) — 5 km ida y vuelta, ~2 h 30, +250 m, hasta ver el **glaciar Saskatchewan** (alpina y ventosa; sin baño). De camino, **Herbert Lake** es bueno para un **💦 chapuzón rápido**.
 
 {{media:athabasca_falls}}
 
 {{media:sunwapta_falls}}
-
-{{media:edith_cavell}}
 
 {{media:peyto_lake}}
 
@@ -152,7 +153,7 @@ De vuelta a BC, parque más tranquilo y con termas.
 - **Radium Hot Springs**: la piscina termal más grande de Canadá, junto al cañón rojo.
 - **Marble Canyon**: cañón estrecho con pasarelas sobre el agua turquesa.
 - **Paint Pots** y otros **cañones** para caminar.
-- 🥾 **Caminata (≤4 h):** [Marble Canyon](https://www.alltrails.com/trail/canada/british-columbia/marble-canyon) — ~1,6 km, fácil, cañón con pasarelas sobre agua turquesa. ⚠️ **Comprobad apertura** (cierre temporal anunciado en feb 2026); si está cerrado, **Paint Pots** o el **Juniper Trail** (Radium). El baño aquí son las **termas de Radium ♨️**.
+- 🥾 **Caminata (≤4 h):** [Marble Canyon](https://www.alltrails.com/trail/canada/british-columbia/marble-canyon) — ~1,6 km, fácil, cañón con pasarelas sobre agua turquesa. (Tuvo cierres puntuales a principios de 2026, ya finalizados; **reconfirmad** justo antes.) Alternativas: **Paint Pots** o el **Juniper Trail** (Radium). El baño aquí son las **termas de Radium ♨️**.
 
 {{media:marble_canyon}}
 
@@ -178,7 +179,7 @@ Segunda tanda en Banff para rematar lo que falte: **Banff Gondola**, **Johnston 
 Días tranquilos en Kananaskis y compras/paseo por **Canmore** antes de devolver la
 autocaravana.
 
-- 🥾 **Caminata (≤4 h):** [Grassi Lakes](https://www.alltrails.com/trail/canada/alberta/grassi-lakes-interpretive-loop) (Canmore) — 3,7 km, ~1–1,5 h, dos lagos turquesa al pie de un acantilado, con cascada y pictografías (lagos pequeños y fríos: más para mojar los pies que para nadar).
+- 🥾 **Caminata (≤4 h):** [Troll Falls](https://www.alltrails.com/trail/canada/alberta/troll-falls) (Kananaskis) — 3,5 km ida y vuelta, ~1–1,5 h, fácil y familiar hasta una cascada. ⚠️ **Grassi Lakes está cerrado** desde jun 2026 (desprendimiento). Para **💦 baño**, **Quarry Lake** en Canmore.
 - **Sáb 22 ago:** devolver autocaravana **08:00–10:00** en CanaDream → aeropuerto → vuelo
   **19:00**. (Hay margen de sobra; CanaDream está a ~10 min del aeropuerto.)
 
@@ -210,6 +211,7 @@ Emerald, Minnewanka): preciosos para ver, no para nadar. Los que **sí** se disf
 - **Pyramid Lake** (Jasper) — baño tranquilo.
 - **Valley of the Five Lakes** (Jasper) — algunas pozas templadas.
 - **Herbert Lake** (cerca de Lake Louise) — pequeño y más cálido, chapuzón rápido.
+- **Quarry Lake** (Canmore) — lago de pueblo, de los más cálidos; ideal el último día.
 - ♨️ **Termas:** Radium Hot Springs, Banff Upper Hot Springs y Miette Hot Springs.
 
 ---
@@ -217,8 +219,10 @@ Emerald, Minnewanka): preciosos para ver, no para nadar. Los que **sí** se disf
 ## ✅ Pendientes y notas
 
 - ⚠️ **Sillita de niño** en la autocaravana (confirmar con CanaDream).
-- **Parks Canada Discovery Pass** (pase de parques) antes de entrar.
+- **Entrada a parques GRATIS** en 2026 (Canada Strong Pass, 19 jun–7 sep): no compréis
+  Discovery Pass. Camping, parking, termas y tours **sí** se pagan.
 - **Reservar shuttle de Moraine Lake** (y plan para Lake Louise) con antelación.
 - Reconfirmar el **Ice Explorer / Skywalk** del Columbia Icefield (suele agotarse en verano).
-- Comprobar **apertura de Marble Canyon** (Kootenay): cierre temporal anunciado en feb 2026.
+- **Cierres 2026 ya sustituidos en el plan:** Maligne Canyon y Mount Edith Cavell (incendio
+  de Jasper) y Grassi Lakes (desprendimiento). Reconfirmad Marble Canyon antes de ir.
 - Bow Valley: las fechas no se podían cambiar hasta el 22 jun 2026 (ya pasado).
