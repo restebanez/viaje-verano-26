@@ -518,3 +518,12 @@
   maps_query: "Many Springs Trail, Bow Valley Provincial Park"
   lat: 51.0560
   lng: -115.0560
+
+- id: sulphur_mountain
+  nombre: Sulphur Mountain Trail (a pie, reto)
+  dia: "Banff · reto opcional (>4 h)"
+  semaforo: "🟢"
+  maps_query: "Sulphur Mountain Trailhead, Banff Gondola"
+  lat: 51.1488
+  lng: -115.5723
+  ruta: "https://www.alltrails.com/trail/canada/alberta/sulphur-mountain-trail"
